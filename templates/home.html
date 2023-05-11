@@ -1,0 +1,88 @@
+{% extends 'base.html' %} {% load static %} {% block data %}
+
+<div class="back_cover_grad_top"></div>
+<div class="back_cover_grad_left"></div>
+<div class="back_cover_grad_right"></div>
+<div class="back_cover_grad_bottom"></div>
+<div class="back_cover_home">
+  <img
+    src="{% static 'resources/back_cover_alt.jpg' %}"
+    alt=""
+    id="back_cover_home"
+  />
+</div>
+<div class="poster_home">
+  <img src="{% static 'resources/poster_alt.png' %}" alt="" id="poster_home" />
+</div>
+<div class="invisibal poster_home">
+  <img
+    src="{% static 'resources/poster_alt.png' %}"
+    alt=""
+    id="poster_home_inv"
+  />
+</div>
+<div class="poster_title_home">
+  <h1 id="poster_title_home">Search Within</h1>
+</div>
+
+<div class="tiles_mrg adjust"><a>TOP TRENDINGS</a></div>
+
+<div class="wrapper">
+  <div class="hover"></div>
+  <i class="fa-solid fa-angle-left la"></i>
+  <div id="popular_mix" class="tiles cursorl">
+    <div class="h1"><h1>kujujhgdqkaeqaedfqedfdfedfew</h1></div>
+  </div>
+  <div class="hover-r"></div>
+  <i class="fa-solid fa-angle-right"></i>
+</div>
+
+<div class="tiles_mrg" id="live"><a name="live">TOP LiveTV</a></div>
+
+<div class="wrapper">
+  <div class="hover"></div>
+  <div id="popular_livetv" class="tiles cursorl"></div>
+</div>
+
+<div class="tiles_mrg" id="movies"><a name="movies">TOP MOVIES</a></div>
+
+<div class="wrapper">
+  <div class="hover"></div>
+
+  <div id="popular_movies" class="tiles cursorl"></div>
+</div>
+
+<div class="tiles_mrg" id="shows"><a name="shows">TOP SHOWS</a></div>
+
+<div class="wrapper">
+  <div id="popular_show" class="tiles cursorl"></div>
+</div>
+
+<div class="genre_wrapper" id="get_genres_info"></div>
+
+<div class="footer">
+  <div class="foot_credit_1">
+    <a href="https://www.themoviedb.org" target="_blank">
+      <img src="{% static 'resources/tmdb.svg' %}" alt="" />
+    </a>
+  </div>
+
+  <div class="foot_credit_2">
+    <a href="https://github.com/dawoudt/JustWatchAPI" target="_blank">
+      <img src="{% static 'resources/just_watch.png' %}" alt="" />
+    </a>
+  </div>
+
+  <div class="fback">
+    <img src="{% static 'resources/footer.png' %}" alt="" />
+  </div>
+</div>
+
+{% endblock data %} {% block script %}
+<script>
+  let poster_alt_src = "{% static 'resources/poster_alt.png' %}";
+  let back_alt_src = "{% static 'resources/back_cover_alt.jpg' %}";
+</script>
+
+<script src="{% static 'js/home.js' %}"></script>
+{% endblock script %}

@@ -1,0 +1,44 @@
+/* scroll bar starts */
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #111010fb;
+  border: none;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(80, 78, 78, 0.652);
+  border-radius: 5px;
+  height: 1px;
+  border: none;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #fbf9f9ef;
+}
+
+.loading {
+  width: 50%;
+  height: 50%;
+  position: fixed;
+  margin-top: 14%;
+  margin-bottom: 14%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.not_found {
+  width: 26%;
+  height: 30%;
+  position: fixed;
+  margin-top: 14%;
+  margin-bottom: 14%;
+  margin-left: 37%;
+  margin-right: 37%;
+}

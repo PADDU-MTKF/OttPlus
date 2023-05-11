@@ -1,0 +1,19 @@
+
+On Local Server...
+change
+---------------------------------
+ott/modules/mymodule.py  =>  DEVELOPMENT = True
+ottplus/settings.py      =>  DEBUG = True
+                             SECRET_KEY = 'django-insecure-7yvo6tcyvv2f=12r)96nm()b@!))7t)q^6%turo0^)enf-%wnj'
+
+
+
+
+On hosting...
+change
+---------------------------------
+ott/modules/mymodule.py  =>  DEVELOPMENT = False
+ottplus/settings.py      =>  DEBUG = False
+                             SECRET_KEY = os.environ['SECRET_KEY']
+
+

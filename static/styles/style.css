@@ -1,0 +1,136 @@
+body {
+  width: auto;
+  height: auto;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: rgb(0, 0, 0);
+}
+
+* {
+  margin: 0;
+}
+
+.main {
+  width: 100%;
+  /* position: fixed; */
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+/* .h1{
+    display: inline
+    background-color: aqua;
+    color: red;
+    font-size: 8px;
+    width: 30px;
+    height: 218px; 
+    margin-right: 20px;
+     text-overflow: none;
+    text-align: left;
+    position: absolute;
+    margin-right: 300px;
+    
+    
+/* } */
+/* 
+@media screen and (max-width: 900px) {
+  .cursorl {
+    width: 500px;
+  }
+}
+@media screen and (max-width: 550px) {
+  .cursorl {
+    width: 100px;
+  }
+} */
+.hover {
+  height: 190px;
+  width: 44px;
+  position: absolute;
+}
+/* .hover-r{
+    height: 190px;
+    width: 200px;
+    position: relative;
+background-color: aqua;
+z-index: 1;
+
+} */
+
+.hover i {
+  position: absolute;
+  right: 100px;
+}
+
+/* 
+ul {
+  position: relative;
+  /* left: auto; */
+
+/* 
+nav {
+  width: 100%;
+  /* margin-left: 128px; */
+/* display: inline-block;
+  flex-wrap: wrap;
+  text-align: right; */
+
+.fback img {
+  /* height: 50vh; */
+  width: 100%;
+  bottom: -5px;
+  padding-top: 10%;
+  /* overflow-x: hidden; */
+  /* background-attachment: fixed; */
+  position: relative;
+}
+
+.foot_credit_1 img {
+  width: 5%;
+  position: absolute;
+  z-index: 2;
+  left: 44%;
+  margin-top: 20%;
+}
+
+.foot_credit_2 img {
+  width: 19%;
+  position: absolute;
+  z-index: 1;
+  left: 45%;
+  margin-top: 16%;
+}
+
+.animate {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.animate_loaded {
+  opacity: 1;
+}
+
+.genre_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+
+  grid-template-columns: repeat(auto-fit, minmax(100px, 0fr));
+  gap: 4px;
+
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  justify-content: center;
+  align-content: center;
+  place-content: center;
+}
+
+.genre_item {
+  padding: 10px;
+  border-radius: 100px;
+  background: lightsteelblue;
+  font-family: monospace;
+}

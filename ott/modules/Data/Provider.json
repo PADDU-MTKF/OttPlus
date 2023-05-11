@@ -1,0 +1,97 @@
+{
+    "8": {
+        "Name": "netflix",
+        "Short": "nfx",
+        "Logo": "https://images.justwatch.com/icon/207360008/s332"
+    },
+    "10": {
+        "Name": "amazon",
+        "Short": "amz",
+        "Logo": "https://images.justwatch.com/icon/430993/s332"
+    },
+    "119": {
+        "Name": "amazonprimevideo",
+        "Short": "prv",
+        "Logo": "https://images.justwatch.com/icon/52449861/s332"
+    },
+    "121": {
+        "Name": "voot",
+        "Short": "voo",
+        "Logo": "https://images.justwatch.com/icon/4233119/s332"
+    },
+    "122": {
+        "Name": "hotstar",
+        "Short": "hst",
+        "Logo": "https://images.justwatch.com/icon/240029443/s332"
+    },
+    "175": {
+        "Name": "netflixkids",
+        "Short": "nfk",
+        "Logo": "https://images.justwatch.com/icon/14385750/s332"
+    },
+    "192": {
+        "Name": "youtube",
+        "Short": "yot",
+        "Logo": "https://images.justwatch.com/icon/59562423/s332"
+    },
+    "218": {
+        "Name": "erosnow",
+        "Short": "ern",
+        "Logo": "https://images.justwatch.com/icon/247912837/s332"
+    },
+    "220": {
+        "Name": "jiocinema",
+        "Short": "jio",
+        "Logo": "https://images.justwatch.com/icon/85114140/s332"
+    },
+    "232": {
+        "Name": "zee5",
+        "Short": "zee",
+        "Logo": "https://images.justwatch.com/icon/93795879/s332"
+    },
+    "237": {
+        "Name": "sonyliv",
+        "Short": "snl",
+        "Logo": "https://images.justwatch.com/icon/207468084/s332"
+    },
+    "255": {
+        "Name": "yupptv",
+        "Short": "ytv",
+        "Logo": "https://images.justwatch.com/icon/123324312/s332"
+    },
+    "309": {
+        "Name": "sunnxt",
+        "Short": "snx",
+        "Logo": "https://images.justwatch.com/icon/138047862/s332"
+    },
+    "315": {
+        "Name": "hoichoi",
+        "Short": "hoc",
+        "Logo": "https://images.justwatch.com/icon/141253805/s332"
+    },
+    "319": {
+        "Name": "altbalaji",
+        "Short": "abj",
+        "Logo": "https://images.justwatch.com/icon/141488812/s332"
+    },
+    "437": {
+        "Name": "hungamaplay",
+        "Short": "hgp",
+        "Logo": "https://images.justwatch.com/icon/201704934/s332"
+    },
+    "474": {
+        "Name": "shemaroome",
+        "Short": "sme",
+        "Logo": "https://images.justwatch.com/icon/208147531/s332"
+    },
+    "510": {
+        "Name": "discoveryplus",
+        "Short": "dsp",
+        "Logo": "https://images.justwatch.com/icon/240558410/s332"
+    },
+    "515": {
+        "Name": "mxplayer",
+        "Short": "mxp",
+        "Logo": "https://images.justwatch.com/icon/210188316/s332"
+    }
+}

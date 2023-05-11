@@ -1,0 +1,94 @@
+.tls {
+  /* background: black; */
+  height: 225px;
+  width: 160px;
+  margin-left: 10px;
+  border-radius: 19px;
+}
+
+.tiles {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 13px;
+  overflow: hidden;
+  height: 230px;
+}
+.tiles#popular_livetv {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 13px;
+  overflow: hidden;
+  height: 24vh;
+}
+
+.tiles_mrg {
+  color: aliceblue;
+  margin-left: 50px;
+  align-items: center;
+  margin-top: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.tls:hover {
+  /* filter: blur(5px); */
+  filter: brightness(40%);
+}
+
+.image-div {
+  width: 300px;
+  height: 218px;
+  margin-right: 10px;
+  /* background-attachment: fixed; */
+}
+.title {
+  display: inline-block;
+  position: fixed;
+  z-index: 5;
+  height: 400px;
+}
+
+.adjust {
+  margin-top: 65px;
+}
+
+.tril {
+  height: 100px;
+  width: 200px;
+}
+
+/**************************** scrolling event for tiles ************************* */
+
+.wrapper .cursorl {
+  font-size: 0;
+  cursor: pointer;
+}
+
+.wrapper i {
+  height: 45px;
+  width: 45px;
+  text-align: center;
+  line-height: 45px;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.066);
+  transform: translateY(-50%);
+}
+.wrapper {
+  max-width: 100%;
+  margin-right: 60px;
+  position: relative;
+  display: flex;
+}
+.la {
+  top: 100px;
+}
+.wrapper i:last-child {
+  left: 1119px;
+  top: 100px;
+  position: absolute;
+}
+
+.live {
+  height: 23vh;
+}

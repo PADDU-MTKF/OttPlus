@@ -1,0 +1,2145 @@
+{
+  "LiveTvSource": {
+    "yupptv": {
+      "Id": "yupptv",
+      "Title": "Yupp TV",
+      "Watch": [
+        {
+          "Link": "https://www.yupptv.com/channels",
+          "Provider": "yupptv",
+          "Provider_Logo": "https://images.justwatch.com/icon/123324312/s332"
+        }
+      ]
+    },
+    "voot": {
+      "Id": "voot",
+      "Title": "Voot",
+      "Watch": [
+        {
+          "Link": "https://www.voot.com/channels",
+          "Provider": "voot",
+          "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+        }
+      ]
+    },
+    "zee5": {
+      "Id": "zee5",
+      "Title": "Zee5",
+      "Watch": [
+        {
+          "Link": "https://www.zee5.com/tvguide",
+          "Provider": "zee5",
+          "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+        }
+      ]
+    },
+    "sunnxt": {
+      "Id": "sunnxt",
+      "Title": "SunNxt",
+      "Watch": [
+        {
+          "Link": "https://www.sunnxt.com/live/live/schedule/",
+          "Provider": "sunnxt",
+          "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+        }
+      ]
+    },
+    "sonyliv": {
+      "id": "sonyliv",
+      "title": "SonyLiv",
+      "Watch": [
+        {
+          "Link": "https://www.sonyliv.com/listing/live-tv-400_363",
+          "Provider": "sonyliv",
+          "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+        }
+      ]
+    }
+  },
+  "0-9-170": {
+    "Id": "0-9-170",
+    "Title": "News Nation",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-170/channel_list/newsnation1170382e2206e86e4996bb9557a9db2a544c.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/News-Nation/0-9-170",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeenews": {
+    "Id": "0-9-zeenews",
+    "Title": "Zee News",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/channel_list/zeenews1170ef9d2835a60641f1be62323e9d345e60.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-News/0-9-zeenews",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-indiatoday": {
+    "Id": "0-9-indiatoday",
+    "Title": "India Today",
+    "Language": "en",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/channel_list/indiatodayrajeevsardesdai1170e084f08174454d40a2f47ab45cbaf09f.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/India-Today/0-9-indiatoday",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-aajtak": {
+    "Id": "0-9-aajtak",
+    "Title": "Aaj Tak",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/channel_list/aajtak117057ed0b609d504a6098d5d3b0c9f822c3.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Aaj-Tak/0-9-aajtak",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-258": {
+    "Id": "0-9-258",
+    "Title": "TV9 Telugu",
+    "Language": "te",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-258/channel_list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/TV9-Telugu/0-9-258",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-251": {
+    "Id": "0-9-251",
+    "Title": "TV9 Bharatvarsh",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-251/channel_list/tv9bharatvarshb1170cfcedff1425c46df828ed7b37cdbaf0d.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/TV9-Bharatvarsh/0-9-251",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeebusiness": {
+    "Id": "0-9-zeebusiness",
+    "Title": "Zee Business",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/channel_list/zeebusiness1170af2e0e4454a1440f87d39a255727708c.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Business/0-9-zeebusiness",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-206": {
+    "Id": "0-9-206",
+    "Title": "News24",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-206/channel_list/e24newslogob1170b1ea8df954d74f9ab303c85d16ba2775.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/News24/0-9-206",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-259": {
+    "Id": "0-9-259",
+    "Title": "TV9 Kannada",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-259/channel_list/tv9kannada1170a4eae60d238048e5ba07bc51b44305d3.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/TV9-Kannada/0-9-259",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-201": {
+    "Id": "0-9-201",
+    "Title": "Suvarna News",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-201/channel_list/asianetsuvarnanews11709f4333ede8c94593ba62fa9c4a066511.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Suvarna-News/0-9-201",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-255": {
+    "Id": "0-9-255",
+    "Title": "Good News Today",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-255/channel_list/gnt1170ca86c09088f94c238d6e86fb97524493.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Good-News-Today/0-9-255",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-wion": {
+    "Id": "0-9-wion",
+    "Title": "WION",
+    "Language": "en",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-wion/channel_list/wion1170fe71ec286d9e481daf5b1c0cdd193fba.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/WION/0-9-wion",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeehindustan": {
+    "Id": "0-9-zeehindustan",
+    "Title": "Zee Hindustan",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeehindustan/channel_list/zeehindustan1170a766bbf240b74a54ba76c9c4788fed8b.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Hindustan/0-9-zeehindustan",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeebiharjharkhand": {
+    "Id": "0-9-zeebiharjharkhand",
+    "Title": "Zee Bihar Jharkhand",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeebiharjharkhand/channel_list/zeebiharjharkhandb11701c02b03e336d4ef792d4b32a343223d6.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Bihar-Jharkhand/0-9-zeebiharjharkhand",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-171": {
+    "Id": "0-9-171",
+    "Title": "News State Uttar Pradesh Uttrakhand",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-171/channel_list/newsstateuttarpradeshuttrakhand1170f69672e841004a059cd2ea32fecee597.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/News-State-Uttar-Pradesh-Uttrakhand/0-9-171",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeekalinganews": {
+    "Id": "0-9-zeekalinganews",
+    "Title": "Zee Delhi NCR Haryana",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeekalinganews/channel_list/zeedelhiharyana1170x658e8b7b3111f204117a0bcf3f8a1327e7b.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Delhi-NCR-Haryana/0-9-zeekalinganews",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-207": {
+    "Id": "0-9-207",
+    "Title": "E24",
+    "Language": "hi",
+    "Genres": ["Lifestyle"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-207/channel_list/e2411706de09bd93f1b4de9be39d758831c60fb.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/E24/0-9-207",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeerajasthannews": {
+    "Id": "0-9-zeerajasthannews",
+    "Title": "Zee Rajasthan News",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeerajasthannews/channel_list/zeerajasthanb117022518c73ed8343fdb5b0be52e8f5cb0e.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Rajasthan-News/0-9-zeerajasthannews",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zing": {
+    "Id": "0-9-zing",
+    "Title": "Zing",
+    "Language": "hi",
+    "Genres": ["Music"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zing/channel_list/1170x658withlogo895666865.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zing/0-9-zing",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeemadhyapradeshchat": {
+    "Id": "0-9-zeemadhyapradeshchat",
+    "Title": "Zee Madhya Pradesh Chhattisgarh",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeemadhyapradeshchat/channel_list/zeemadhyapradeshchhattisgarh11707d6f48d5a1de46c99f4e31c3faa08a26.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Madhya-Pradesh-Chhattisgarh/0-9-zeemadhyapradeshchat",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-bigmagic_1786965389": {
+    "Id": "0-9-bigmagic_1786965389",
+    "Title": "Big Magic",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Big-Magic/0-9-bigmagic_1786965389",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeetvhd": {
+    "Id": "0-9-zeetvhd",
+    "Title": "Zee TV HD",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-TV-HD/0-9-zeetvhd",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-tvhd_0": {
+    "Id": "0-9-tvhd_0",
+    "Title": "&TV HD",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andTV-HD/0-9-tvhd_0",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeecafehd": {
+    "Id": "0-9-zeecafehd",
+    "Title": "Zee Caf\u00e9 HD",
+    "Language": "en",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Caf\u00e9-HD/0-9-zeecafehd",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-129": {
+    "Id": "0-9-129",
+    "Title": "Zee Keralam HD",
+    "Language": "ml",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-129/channel_list/1170x658withlogo268830785.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Keralam-HD/0-9-129",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeetelugu": {
+    "Id": "0-9-zeetelugu",
+    "Title": "Zee Telugu HD",
+    "Language": "te",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/channel_list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Telugu-HD/0-9-zeetelugu",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeetamil": {
+    "Id": "0-9-zeetamil",
+    "Title": "Zee Tamil HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/zeetamil1170a6b2f7bf208445d1899eceb133b01a80.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Tamil-HD/0-9-zeetamil",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeekannada": {
+    "Id": "0-9-zeekannada",
+    "Title": "Zee Kannada HD",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/channel_list/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Kannada-HD/0-9-zeekannada",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeeanmol": {
+    "Id": "0-9-zeeanmol",
+    "Title": "Zee Anmol",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Anmol/0-9-zeeanmol",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-tvpictureshd": {
+    "Id": "0-9-tvpictureshd",
+    "Title": "&Pictures HD",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andPictures-HD/0-9-tvpictureshd",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeecinemahd": {
+    "Id": "0-9-zeecinemahd",
+    "Title": "Zee Cinema HD",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/channel_list/1170x658withlogo167952257.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Cinema-HD/0-9-zeecinemahd",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeecinemalu": {
+    "Id": "0-9-zeecinemalu",
+    "Title": "Zee Cinemalu HD",
+    "Language": "te",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/channel_list/1170x6581642453232.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Cinemalu-HD/0-9-zeecinemalu",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeeanmolcinema": {
+    "Id": "0-9-zeeanmolcinema",
+    "Title": "Zee Anmol Cinema",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/channel_list/1170x658withlog1721007595.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Anmol-Cinema/0-9-zeeanmolcinema",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeeclassic": {
+    "Id": "0-9-zeeclassic",
+    "Title": "Zee Bollywood",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/channel_list/1170x658e6b59efbc9c5471f9392f477f91f0c11.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Bollywood/0-9-zeeclassic",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-pictures": {
+    "Id": "0-9-pictures",
+    "Title": "&Pictures",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/channel_list/1170x658withlog_1269578414.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andPictures/0-9-pictures",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeecinema": {
+    "Id": "0-9-zeecinema",
+    "Title": "Zee Cinema",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Cinema/0-9-zeecinema",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeeaction": {
+    "Id": "0-9-zeeaction",
+    "Title": "Zee Action",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog_1953200347.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Action/0-9-zeeaction",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-priv\u00e9hd": {
+    "Id": "0-9-priv\u00e9hd",
+    "Title": "&Prive HD",
+    "Language": "en",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-priv\u00e9hd/channel_list/1170x658withlogo375086496.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andPrive-HD/0-9-priv\u00e9hd",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddnews": {
+    "Id": "0-9-ddnews",
+    "Title": "DD News",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddnews/channel_list/ddnews11707ca01a836e1c4fbd952001e2fbabc101.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-News/0-9-ddnews",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddkisan": {
+    "Id": "0-9-ddkisan",
+    "Title": "DD Kisan",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddkisan/channel_list/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Kisan/0-9-ddkisan",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-channel_2105335046": {
+    "Id": "0-9-channel_2105335046",
+    "Title": "&flix HD",
+    "Language": "en",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/channel_list/1170x658379547401.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andflix-HD/0-9-channel_2105335046",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-channel_1144658965": {
+    "Id": "0-9-channel_1144658965",
+    "Title": "Sanskar TV",
+    "Language": "hi",
+    "Genres": ["Devotional"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1144658965/channel_list/1170x658withlog_1152304152.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Sanskar-TV/0-9-channel_1144658965",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-165": {
+    "Id": "0-9-165",
+    "Title": "Boogle Bollywood",
+    "Language": "hi",
+    "Genres": ["Entertainment", "Music"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-165/channel_list/e24newslogob11706559e18b37244f0bb8cee138c0ae9a90.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Boogle-Bollywood/0-9-165",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-channel_1565694979": {
+    "Id": "0-9-channel_1565694979",
+    "Title": "Satsang TV",
+    "Language": "hi",
+    "Genres": ["Devotional"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1565694979/channel_list/1170x658withlogo_66703857.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Satsang-TV/0-9-channel_1565694979",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddindia": {
+    "Id": "0-9-ddindia",
+    "Title": "DD India",
+    "Language": "en",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddindia/channel_list/ddindiab1170e005f1e37e0245c1a6ba011da7bbd98e.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-India/0-9-ddindia",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-divyatv": {
+    "Id": "0-9-divyatv",
+    "Title": "Divya TV",
+    "Language": "hi",
+    "Genres": ["Devotional"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-divyatv/channel_list/1170x658withlog2128007300.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Divya-TV/0-9-divyatv",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeetv": {
+    "Id": "0-9-zeetv",
+    "Title": "Zee TV",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/channel_list/1170x658withlogo_200095097.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-TV/0-9-zeetv",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeesalaam": {
+    "Id": "0-9-zeesalaam",
+    "Title": "Zee Salaam",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeesalaam/channel_list/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Salaam/0-9-zeesalaam",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-makkaltv": {
+    "Id": "0-9-makkaltv",
+    "Title": "Makkal TV",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-makkaltv/channel_list/1170x658withlogo579936187.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Makkal-TV/0-9-makkaltv",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddpodhigai": {
+    "Id": "0-9-ddpodhigai",
+    "Title": "DD Podhigai",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddpodhigai/channel_list/1170x658withlog_1550486077.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Podhigai/0-9-ddpodhigai",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddmalayalam": {
+    "Id": "0-9-ddmalayalam",
+    "Title": "DD Malayalam",
+    "Language": "ml",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddmalayalam/channel_list/1170x658withlog_1300475155.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Malayalam/0-9-ddmalayalam",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddyadagiri": {
+    "Id": "0-9-ddyadagiri",
+    "Title": "DD Yadagiri",
+    "Language": "te",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddyadagiri/channel_list/ddyadagiri1170fb5c4623571b43a5b0fc6a728e6d6aa0.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Yadagiri/0-9-ddyadagiri",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddchandana": {
+    "Id": "0-9-ddchandana",
+    "Title": "DD Chandana",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddchandana/channel_list/1170x658withlogo_222569298.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Chandana/0-9-ddchandana",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddurdu": {
+    "Id": "0-9-ddurdu",
+    "Title": "DD Urdu",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddurdu/channel_list/1170x658withlog_1440959247.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Urdu/0-9-ddurdu",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddrajasthanjaipur": {
+    "Id": "0-9-ddrajasthanjaipur",
+    "Title": "DD Rajasthan",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddrajasthanjaipur/channel_list/1170x658withlog_1491909175.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Rajasthan/0-9-ddrajasthanjaipur",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddbharati": {
+    "Id": "0-9-ddbharati",
+    "Title": "DD Bharati",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddbharati/channel_list/1170x658withlog_1749264623.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Bharati/0-9-ddbharati",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddmadhyapradesh": {
+    "Id": "0-9-ddmadhyapradesh",
+    "Title": "DD Madhya Pradesh",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddmadhyapradesh/channel_list/1170x658withlog_1218231157.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Madhya-Pradesh/0-9-ddmadhyapradesh",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-ddbihar": {
+    "Id": "0-9-ddbihar",
+    "Title": "DD Bihar",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-ddbihar/channel_list/1170x658withlog_1865440648.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Bihar/0-9-ddbihar",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-dduttarpradesh": {
+    "Id": "0-9-dduttarpradesh",
+    "Title": "DD Uttar Pradesh",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-dduttarpradesh/channel_list/1170x658withlog_1445486903.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/DD-Uttar-Pradesh/0-9-dduttarpradesh",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-channel_265145625": {
+    "Id": "0-9-channel_265145625",
+    "Title": "Zee News Uttar Pradesh Uttrakhand",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-channel_265145625/channel_list/zeeupukb11705190c13d14284a9ab47288edb06b7cec.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-News-Uttar-Pradesh-Uttrakhand/0-9-channel_265145625",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-176": {
+    "Id": "0-9-176",
+    "Title": "Zee Classic",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-176/channel_list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Classic/0-9-176",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-172": {
+    "Id": "0-9-172",
+    "Title": "News State Madhya Pradesh Chhattisgarh",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-172/channel_list/newsstatempch11703204b4fd1f2944edaf1bc0eb7052950a.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/News-State-Madhya-Pradesh-Chhattisgarh/0-9-172",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-200": {
+    "Id": "0-9-200",
+    "Title": "Asianet News",
+    "Language": "ml",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-200/channel_list/pgsureshkumarne1752938193.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Asianet-News/0-9-200",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-209": {
+    "Id": "0-9-209",
+    "Title": "&xplorHD",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo358457080.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andxplorHD/0-9-209",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-224": {
+    "Id": "0-9-224",
+    "Title": "Zee Thirai",
+    "Language": "ta",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-224/channel_list/1170x658withlogo_334138193.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Thirai/0-9-224",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-348": {
+    "Id": "0-9-348",
+    "Title": "Zee Zest HD",
+    "Language": "en",
+    "Genres": ["Lifestyle"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-348/channel_list/1170x658withlog2096037619.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Zest-HD/0-9-348",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-241": {
+    "Id": "0-9-241",
+    "Title": "Zee Picchar",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-241/channel_list/1170x658withlog_1692640342.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Picchar/0-9-241",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-272": {
+    "Id": "0-9-272",
+    "Title": "India News",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-272/channel_list/indianews117012fa297fb55b4a219215ab52b5c6da81.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/India-News/0-9-272",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-273": {
+    "Id": "0-9-273",
+    "Title": "News X",
+    "Language": "en",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-273/channel_list/newsx1170bae83edacc0e4aa2bef80887bb5af9ec.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/News-X/0-9-273",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-275": {
+    "Id": "0-9-275",
+    "Title": "India News UP",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-275/channel_list/indianewsupuk117068f76579e5ea4ad88e07398874431686.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/India-News-UP/0-9-275",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-276": {
+    "Id": "0-9-276",
+    "Title": "India News Rajasthan",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-276/channel_list/indianewsrajasthan117073b15b610bb846d58b1298a0f7257f7e.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/India-News-Rajasthan/0-9-276",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-277": {
+    "Id": "0-9-277",
+    "Title": "India News MP",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-277/channel_list/indianewsmp1170041847abd91849a98d11c326086de478.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/India-News-MP/0-9-277",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-278": {
+    "Id": "0-9-278",
+    "Title": "India News Haryana",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-278/channel_list/indianewsharyana1170ea506fd880c747b78aed73cefe7a1b01.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/India-News-Haryana/0-9-278",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-280": {
+    "Id": "0-9-280",
+    "Title": "NE News",
+    "Language": "en",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-280/channel_list/nenews1170989da17aa8794439a878b03df044ebd2.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/NE-News/0-9-280",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-284": {
+    "Id": "0-9-284",
+    "Title": "Sadhna TV",
+    "Language": "hi",
+    "Genres": ["Devotional"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-284/channel_list/1170x658withlogo_844800250.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Sadhna-TV/0-9-284",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-285": {
+    "Id": "0-9-285",
+    "Title": "Ishwar  TV",
+    "Language": "hi",
+    "Genres": ["Devotional"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-285/channel_list/1170x658withlog_1126976137.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Ishwar--TV/0-9-285",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-398": {
+    "Id": "0-9-398",
+    "Title": "ABP NEWS",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-398/channel_list/abpnewssumitawasthi21170a308964eba34418d859601e848d98732.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/ABP-NEWS/0-9-398",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-399": {
+    "Id": "0-9-399",
+    "Title": "ABP Ganga",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-399/channel_list/abpganga11702b5d476112bd446f8421efdc501e2b1f.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/ABP-Ganga/0-9-399",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-423": {
+    "Id": "0-9-423",
+    "Title": "Newsmax",
+    "Language": "en",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-423/channel_list/newsmax1170d6a84c22db8c4c9db5da9ebe62e6f9ac.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Newsmax/0-9-423",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-424": {
+    "Id": "0-9-424",
+    "Title": "TICKER NEWS",
+    "Language": "en",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-424/channel_list/tickernews1170e943ab460bdd4462922df395cfa8a55a.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/TICKER-NEWS/0-9-424",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-430": {
+    "Id": "0-9-430",
+    "Title": "Kairali News",
+    "Language": "ml",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-430/channel_list/sarath_1170.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Kairali-News/0-9-430",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-9z583386": {
+    "Id": "0-9-9z583386",
+    "Title": "Times Now Navbharat",
+    "Language": "hi",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-9z583386/channel_list/timesnownavbharat11704a68afbc099c41369cbdf3aef9dabb94.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Times-Now-Navbharat/0-9-9z583386",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-9z583533": {
+    "Id": "0-9-9z583533",
+    "Title": "ZEE News Tamil",
+    "Language": "ta",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-9z583533/channel_list/1170x65872e20eebb8c4416db5d5b1e014e2ab77.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/ZEE-News-Tamil/0-9-9z583533",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-9z583537": {
+    "Id": "0-9-9z583537",
+    "Title": "ZEE News Kannada",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-9z583537/channel_list/1170x65892ecf4aa8e934cdeb7deb9bbd501646d.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/ZEE-News-Kannada/0-9-9z583537",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-9z583538": {
+    "Id": "0-9-9z583538",
+    "Title": "Zee News Telugu",
+    "Language": "te",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-9z583538/channel_list/1170x658fb1bd397310743bf850648fb036ae8b7.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-News-Telugu/0-9-9z583538",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-9z583539": {
+    "Id": "0-9-9z583539",
+    "Title": "ZEE News Malayalam",
+    "Language": "ml",
+    "Genres": ["News"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-9z583539/channel_list/1170x658f0313dbfc3ef4c0c9c4619454829b2d3.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/ZEE-News-Malayalam/0-9-9z583539",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "219387": {
+    "Id": "219387",
+    "Title": "Colors HD",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-hindi-16x9-1645341311614.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-hd-live/805985",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "314413": {
+    "Id": "314413",
+    "Title": "Sports 18",
+    "Language": "en",
+    "Genres": ["sports"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/sports-icon-16x9-1651063191653.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/sports18-live/1301985",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "126175": {
+    "Id": "126175",
+    "Title": "MTV HD+",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/mtv-16x9-1645341574139.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/mtv-hd-live/805989",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "2102281": {
+    "Id": "2102281",
+    "Title": "Comedy Central HD",
+    "Language": "en",
+    "Genres": ["comedy"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/dddd-1640680597103.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/comedy-central-hd-live/553911",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "212633": {
+    "Id": "212633",
+    "Title": "Colors Kannada",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-kannada-16x9-1645341346390.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-kannada-live/911654",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "277605": {
+    "Id": "277605",
+    "Title": "Cineplex HD",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/collors-cineplex-live-channels-16x9-3-1642569130465.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/cineplex-hd-live/805990",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "200420": {
+    "Id": "200420",
+    "Title": "Colors Tamil HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-tamil-hd-live-channels-1642658746731.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-tamil-hd-live/805986",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "214842": {
+    "Id": "214842",
+    "Title": "Colors Super",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-super-16x9-1645341453891.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-super-live/923555",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "220706": {
+    "Id": "220706",
+    "Title": "Colors Infinity HD",
+    "Language": "en",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-infinity-hd-live-channels-1642658606329.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-infinity-hd-live/553910",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "333689": {
+    "Id": "333689",
+    "Title": "MTV Beats",
+    "Language": "hi",
+    "Genres": ["Music"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/mtvb-16x9-1645343074697.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/mtv-beats-live/805294",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "30846": {
+    "Id": "30846",
+    "Title": "Udaya TV HD",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/30846/960x540_ba5e8ddd-cc2b-42c1-bf01-81189ffd47cb.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/30846/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26576": {
+    "Id": "26576",
+    "Title": "Udaya Movies",
+    "Language": "kn",
+    "Genres": ["Movie"],
+    "Poster": "https://sund-images.sunnxt.com/26576/960x540_8e9e7789-99bd-4977-bd22-2c1091713b65.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26576/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9022": {
+    "Id": "9022",
+    "Title": "Udaya Music",
+    "Language": "kn",
+    "Genres": ["Music"],
+    "Poster": "https://sund-images.sunnxt.com/9022/960x540_a2d7ef26-9342-448b-b53c-bff1248a71a7.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9022/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9014": {
+    "Id": "9014",
+    "Title": "Udaya Comedy",
+    "Language": "kn",
+    "Genres": ["Comedy"],
+    "Poster": "https://sund-images.sunnxt.com/9014/960x540_616dc8c5-743f-4668-b7cc-19e446b24371.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9014/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26577": {
+    "Id": "26577",
+    "Title": "Chintu TV",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26577/960x540_e10c0bde-8d4a-4951-8074-ed7a4107f035.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26577/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9029": {
+    "Id": "9029",
+    "Title": "Udaya TV",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/9029/960x540_3b7e1e67-7e56-4a62-95d4-c579ef386eea.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9029/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "14020": {
+    "Id": "14020",
+    "Title": "Sun TV HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/14020/960x540_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/14020/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "64067": {
+    "Id": "64067",
+    "Title": "Sun News",
+    "Language": "ta",
+    "Genres": ["News"],
+    "Poster": "https://sund-images.sunnxt.com/64067/300x300_SunNews_64067_6f600b70-767a-49a6-8c82-f4dcd8351721.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/64067/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26566": {
+    "Id": "26566",
+    "Title": "KTV HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26566/960x540_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26566/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9013": {
+    "Id": "9013",
+    "Title": "Sun Music HD",
+    "Language": "ta",
+    "Genres": ["Music"],
+    "Poster": "https://sund-images.sunnxt.com/9013/960x540_456a97b5-d134-41c2-8266-11c269c18968.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9013/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26569": {
+    "Id": "26569",
+    "Title": "Sun Life",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26569/960x540_SunLife_26569_1d2884c9-ef31-4d91-9fc0-2f7ab6b5ff15.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26569/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9023": {
+    "Id": "9023",
+    "Title": "Adithya TV",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/9023/960x540_AdithyaTV_9023_a42b02f9-c373-4b25-b411-17894172769e.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9023/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26567": {
+    "Id": "26567",
+    "Title": "Chutti TV",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26567/960x540_bef7cdf0-639d-4acc-9de4-3597cc8c7f68.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26567/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9016": {
+    "Id": "9016",
+    "Title": "Sun TV",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/9016/960x540_6cc7df10-0fc9-486b-b644-9eeb89b905a7.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9016/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "32138": {
+    "Id": "32138",
+    "Title": "KTV",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/32138/960x540_efe209b7-56d3-43c9-a458-6e8fc9eeb605.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/32138/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9025": {
+    "Id": "9025",
+    "Title": "Sun Music",
+    "Language": "ta",
+    "Genres": ["Music"],
+    "Poster": "https://sund-images.sunnxt.com/9025/960x540_a9bd2b5a-dbb2-49ed-b266-62ed7d49ace8.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9025/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "14019": {
+    "Id": "14019",
+    "Title": "Gemini TV HD",
+    "Language": "te",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/14019/960x540_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/14019/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26570": {
+    "Id": "26570",
+    "Title": "Gemini Movies HD",
+    "Language": "te",
+    "Genres": ["Movie"],
+    "Poster": "https://sund-images.sunnxt.com/26570/960x540_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26570/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26568": {
+    "Id": "26568",
+    "Title": "Gemini Music HD",
+    "Language": "te",
+    "Genres": ["Music"],
+    "Poster": "https://sund-images.sunnxt.com/26568/960x540_efcb498c-73f3-49e4-9f22-227ceafaea2f.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26568/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9027": {
+    "Id": "9027",
+    "Title": "Gemini Comedy",
+    "Language": "te",
+    "Genres": ["Comedy"],
+    "Poster": "https://sund-images.sunnxt.com/9027/960x540_e7a3cbc9-694e-40de-8609-67e9294d40bd.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9027/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26572": {
+    "Id": "26572",
+    "Title": "Gemini Life",
+    "Language": "te",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26572/960x540_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26572/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26571": {
+    "Id": "26571",
+    "Title": "Kushi TV",
+    "Language": "te",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26571/960x540_8a2141a2-4b48-4ec8-999b-1070b392edbb.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26571/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9017": {
+    "Id": "9017",
+    "Title": "Gemini TV",
+    "Language": "te",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/9017/960x540_687e2f04-72ec-4fb6-8856-e3b33d26aff4.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9017/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9015": {
+    "Id": "9015",
+    "Title": "Gemini Movies",
+    "Language": "te",
+    "Genres": ["Movie"],
+    "Poster": "https://sund-images.sunnxt.com/9015/960x540_97ebc5cd-918b-4465-a8d8-097b840e03ff.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9015/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9026": {
+    "Id": "9026",
+    "Title": "Gemini Music",
+    "Language": "te",
+    "Genres": ["Music"],
+    "Poster": "https://sund-images.sunnxt.com/9026/960x540_d6ca9b86-96e9-4671-b20c-9ee08740b940.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9026/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26574": {
+    "Id": "26574",
+    "Title": "Surya TV HD",
+    "Language": "ml",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26574/960x540_1b39556e-91c5-4b2c-be93-4ddf957df8c3.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26574/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9019": {
+    "Id": "9019",
+    "Title": "Surya Movies",
+    "Language": "ml",
+    "Genres": ["Movie"],
+    "Poster": "https://sund-images.sunnxt.com/9019/960x540_396f835c-c9e9-4629-a8ea-e77934262a38.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9019/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26575": {
+    "Id": "26575",
+    "Title": "Surya Music",
+    "Language": "ml",
+    "Genres": ["Music"],
+    "Poster": "https://sund-images.sunnxt.com/26575/960x540_1723a24d-3107-4297-902c-975093ad4660.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26575/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "30835": {
+    "Id": "30835",
+    "Title": "Surya Comedy",
+    "Language": "ml",
+    "Genres": ["Comedy"],
+    "Poster": "https://sund-images.sunnxt.com/30835/960x540_d226106f-239d-4b51-a362-ac1f55a2ff4c.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/30835/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26573": {
+    "Id": "26573",
+    "Title": "Kochu TV",
+    "Language": "ml",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26573/960x540_811a4c91-d2c4-41f6-afc3-bd0519431207.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26573/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "9018": {
+    "Id": "9018",
+    "Title": "Surya TV",
+    "Language": "ml",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/9018/960x540_1853b3f8-2775-42d3-8916-54c7392c5b2f.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/9018/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "1000009246": {
+    "Id": 1000009246,
+    "Title": "SET Live",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/SET-Live-1000009246",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009248": {
+    "Id": 1000009248,
+    "Title": "Sony SAB",
+    "Language": "hi",
+    "Genres": ["Comedy"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-SAB-1000009248",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009249": {
+    "Id": 1000009249,
+    "Title": "Sony MAX",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-MAX-1000009249",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009253": {
+    "Id": 1000009253,
+    "Title": "Sony WAH",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-WAH-1000009253",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000044878": {
+    "Id": 1000044878,
+    "Title": "Sony MAX2",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/sonymax2_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-MAX2-1000044878",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009252": {
+    "Id": 1000009252,
+    "Title": "Sony BBC Earth",
+    "Language": "en",
+    "Genres": ["Wildlife/Nature"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-BBC-Earth-1000009252",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000001971": {
+    "Id": 1000001971,
+    "Title": "Sony YAY",
+    "Language": "hi",
+    "Genres": ["Kids"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/5389091260001.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-YAY-1000001971",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009273": {
+    "Id": 1000009273,
+    "Title": "Sony PAL",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-PAL-1000009273",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009258": {
+    "Id": 1000009258,
+    "Title": "Sony PIX",
+    "Language": "en",
+    "Genres": ["Movie"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-PIX-1000009258",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009281": {
+    "Id": 1000009281,
+    "Title": "Sony SIX SD",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-SIX-SD-1000009281",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009275": {
+    "Id": 1000009275,
+    "Title": "Sony SIX HD",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-SIX-HD-1000009275",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009280": {
+    "Id": 1000009280,
+    "Title": "Sony Ten 1",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-1-1000009280",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009276": {
+    "Id": 1000009276,
+    "Title": "Sony Ten 1 HD",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-1-HD-1000009276",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009279": {
+    "Id": 1000009279,
+    "Title": "Sony Ten 2",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2New_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-2-1000009279",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009277": {
+    "Id": 1000009277,
+    "Title": "Sony Ten 2 HD",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HDNew_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-2-HD-1000009277",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009283": {
+    "Id": 1000009283,
+    "Title": "Sony Ten 3",
+    "Language": "hi",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-3-1000009283",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009278": {
+    "Id": 1000009278,
+    "Title": "Sony Ten 3 HD",
+    "Language": "hi",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-3-HD-1000009278",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000119187": {
+    "Id": 1000119187,
+    "Title": "Sony Ten 4",
+    "Language": "ta",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-4-1000119187",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000119186": {
+    "Id": 1000119186,
+    "Title": "Sony Ten 4 HD",
+    "Language": "ta",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-4-HD-1000119186",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "Public_Tv": {
+    "Id": "Public_Tv",
+    "Title": "Public Tv",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/public-tv.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.yupptv.com/channels/public-tv/live",
+        "Provider": "yupptv",
+        "Provider_Logo": "https://images.justwatch.com/icon/123324312/s332"
+      }
+    ]
+  },
+  "TV5_Kannada": {
+    "Id": "TV5_Kannada",
+    "Title": "TV5 Kannada",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tv5-news-kannada.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.yupptv.com/channels/tv5-kannada/live",
+        "Provider": "yupptv",
+        "Provider_Logo": "https://images.justwatch.com/icon/123324312/s332"
+      }
+    ]
+  },
+  "Namma_Kudla_News": {
+    "Id": "Namma_Kudla_News",
+    "Title": "Namma Kudla News",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://i0.wp.com/nammakudlanews.com/wp-content/uploads/2020/01/Namma-kudla-Logo.jpg",
+    "Watch": [
+      {
+        "Link": "https://nammakudlanews.com/namma-kudla-live-24x7-tv/",
+        "Provider": "yupptv",
+        "Provider_Logo": "https://images.justwatch.com/icon/123324312/s332"
+      }
+    ]
+  }
+}

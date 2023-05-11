@@ -1,0 +1,6 @@
+justwatch
+requests
+json
+pprint
+pytz
+dotenv

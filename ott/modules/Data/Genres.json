@@ -1,0 +1,97 @@
+{
+  "1": {
+    "Short_Name": "act",
+    "Name": "action",
+    "Translation": "Action & Adventure"
+  },
+  "2": {
+    "Short_Name": "ani",
+    "Name": "animation",
+    "Translation": "Animation"
+  },
+  "3": {
+    "Short_Name": "cmy",
+    "Name": "comedy",
+    "Translation": "Comedy"
+  },
+  "4": {
+    "Short_Name": "crm",
+    "Name": "crime",
+    "Translation": "Crime"
+  },
+  "5": {
+    "Short_Name": "doc",
+    "Name": "documentation",
+    "Translation": "Documentary"
+  },
+  "6": {
+    "Short_Name": "drm",
+    "Name": "drama",
+    "Translation": "Drama"
+  },
+  "7": {
+    "Short_Name": "fnt",
+    "Name": "fantasy",
+    "Translation": "Fantasy"
+  },
+  "8": {
+    "Short_Name": "hst",
+    "Name": "history",
+    "Translation": "History"
+  },
+  "9": {
+    "Short_Name": "hrr",
+    "Name": "horror",
+    "Translation": "Horror"
+  },
+  "10": {
+    "Short_Name": "fml",
+    "Name": "family",
+    "Translation": "Kids & Family"
+  },
+  "11": {
+    "Short_Name": "msc",
+    "Name": "music",
+    "Translation": "Music & Musical"
+  },
+  "12": {
+    "Short_Name": "trl",
+    "Name": "thriller",
+    "Translation": "Mystery & Thriller"
+  },
+  "13": {
+    "Short_Name": "rma",
+    "Name": "romance",
+    "Translation": "Romance"
+  },
+  "14": {
+    "Short_Name": "scf",
+    "Name": "scifi",
+    "Translation": "Science-Fiction"
+  },
+  "15": {
+    "Short_Name": "spt",
+    "Name": "sport",
+    "Translation": "Sport"
+  },
+  "16": {
+    "Short_Name": "war",
+    "Name": "war",
+    "Translation": "War & Military"
+  },
+  "17": {
+    "Short_Name": "wsn",
+    "Name": "western",
+    "Translation": "Western"
+  },
+  "23": {
+    "Short_Name": "rly",
+    "Name": "reality",
+    "Translation": "Reality TV"
+  },
+  "18": {
+    "Short_Name": "eur",
+    "Name": "european",
+    "Translation": "Made in Europe"
+  }
+}

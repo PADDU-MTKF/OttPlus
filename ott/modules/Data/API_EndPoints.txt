@@ -1,0 +1,36 @@
+    End Points                                      Description
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+                               |
+/get_providers_info            |    get the details of available providers (zee5,netflix....)
+/get_genres_info               |    get the details of available genres
+                               |
+/popular_movies                |    get list of popular movies
+/popular_show                  |    get list of popular show
+/popular_mix                   |    get list of popular show and movies mix
+/popular_livetv                |    get list of popular live TV
+/get_livetv                    |    get list of live TV channels with source information
+                               |
+/genres/<string:gen>           |    get list of movies or show from the specified genre (eg: /genres/act) for click event of action genre button ,here act is Id of that button
+/search_box/<string:search>    |    get 4 search recommendation (use this when typing in search box to show auto completion) (eg: /search_box/tho)
+/search/<string:search>        |    get search result for the searched query (use this when clicked enter in search box)
+                               |
++------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+
+
+GOD MODE
+``````````````````````````````````````
+eg:
+
+/god_mode?content_types=['movie','show']&providers=['hst','voo']&genres=['ani','act']&languages=['hi','en']&query='krish'
+
+
+NOTE:
+``````
+-> after ? the arguments stars
+-> multiple arguments are separated by &
+
+-> available arguments :-  content_types , providers , genres , languages and query
+
+-> all arguments except query accepts a list [], containing element [' ',' ']
+
+-> arguments can be passed in any order and can be ignored to take default values

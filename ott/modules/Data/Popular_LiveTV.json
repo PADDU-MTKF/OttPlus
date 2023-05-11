@@ -1,0 +1,366 @@
+{
+  "0-9-zeetvhd": {
+    "Id": "0-9-zeetvhd",
+    "Title": "Zee TV HD",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-TV-HD/0-9-zeetvhd",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-tvhd_0": {
+    "Id": "0-9-tvhd_0",
+    "Title": "&TV HD",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andTV-HD/0-9-tvhd_0",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeetelugu": {
+    "Id": "0-9-zeetelugu",
+    "Title": "Zee Telugu HD",
+    "Language": "te",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/channel_list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Telugu-HD/0-9-zeetelugu",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeetamil": {
+    "Id": "0-9-zeetamil",
+    "Title": "Zee Tamil HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/zeetamil1170a6b2f7bf208445d1899eceb133b01a80.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Tamil-HD/0-9-zeetamil",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeekannada": {
+    "Id": "0-9-zeekannada",
+    "Title": "Zee Kannada HD",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/channel_list/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Kannada-HD/0-9-zeekannada",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-pictures": {
+    "Id": "0-9-pictures",
+    "Title": "&Pictures",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/channel_list/1170x658withlog_1269578414.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/andPictures/0-9-pictures",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "0-9-zeecinema": {
+    "Id": "0-9-zeecinema",
+    "Title": "Zee Cinema",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.zee5.com/live-tv/Zee-Cinema/0-9-zeecinema",
+        "Provider": "zee5",
+        "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+      }
+    ]
+  },
+  "219387": {
+    "Id": "219387",
+    "Title": "Colors HD",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-hindi-16x9-1645341311614.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-hd-live/805985",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "126175": {
+    "Id": "126175",
+    "Title": "MTV HD+",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/mtv-16x9-1645341574139.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/mtv-hd-live/805989",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "212633": {
+    "Id": "212633",
+    "Title": "Colors Kannada",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-kannada-16x9-1645341346390.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-kannada-live/911654",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "277605": {
+    "Id": "277605",
+    "Title": "Cineplex HD",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/collors-cineplex-live-channels-16x9-3-1642569130465.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/cineplex-hd-live/805990",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "200420": {
+    "Id": "200420",
+    "Title": "Colors Tamil HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-tamil-hd-live-channels-1642658746731.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-tamil-hd-live/805986",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "214842": {
+    "Id": "214842",
+    "Title": "Colors Super",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://v3img.voot.com/resizeMedium,w_320,h_180/v3Storage/assets/colors-super-16x9-1645341453891.png",
+    "Watch": [
+      {
+        "Link": "https://www.voot.com/news/colors-super-live/923555",
+        "Provider": "voot",
+        "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+      }
+    ]
+  },
+  "30846": {
+    "Id": "30846",
+    "Title": "Udaya TV HD",
+    "Language": "kn",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/30846/960x540_ba5e8ddd-cc2b-42c1-bf01-81189ffd47cb.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/30846/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26576": {
+    "Id": "26576",
+    "Title": "Udaya Movies",
+    "Language": "kn",
+    "Genres": ["Movie"],
+    "Poster": "https://sund-images.sunnxt.com/26576/960x540_8e9e7789-99bd-4977-bd22-2c1091713b65.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26576/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "14020": {
+    "Id": "14020",
+    "Title": "Sun TV HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/14020/960x540_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/14020/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "26566": {
+    "Id": "26566",
+    "Title": "KTV HD",
+    "Language": "ta",
+    "Genres": ["Entertainment"],
+    "Poster": "https://sund-images.sunnxt.com/26566/960x540_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.sunnxt.com/live/live/26566/live",
+        "Provider": "sunnxt",
+        "Provider_Logo": "https://images.justwatch.com/icon/138047862/s332"
+      }
+    ]
+  },
+  "1000009246": {
+    "Id": 1000009246,
+    "Title": "SET Live",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/SET-Live-1000009246",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009248": {
+    "Id": 1000009248,
+    "Title": "Sony SAB",
+    "Language": "hi",
+    "Genres": ["Comedy"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-SAB-1000009248",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009249": {
+    "Id": 1000009249,
+    "Title": "Sony MAX",
+    "Language": "hi",
+    "Genres": ["Movie"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-MAX-1000009249",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009273": {
+    "Id": 1000009273,
+    "Title": "Sony PAL",
+    "Language": "hi",
+    "Genres": ["Entertainment"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-PAL-1000009273",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009275": {
+    "Id": 1000009275,
+    "Title": "Sony SIX HD",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-SIX-HD-1000009275",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "1000009280": {
+    "Id": 1000009280,
+    "Title": "Sony Ten 1",
+    "Language": "en",
+    "Genres": ["Sport"],
+    "Poster": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1_Masthead_Logo.png",
+    "Watch": [
+      {
+        "Link": "https://www.sonyliv.com/live-tv/Sony-Ten-1-1000009280",
+        "Provider": "sonyliv",
+        "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+      }
+    ]
+  },
+  "Public_Tv": {
+    "Id": "Public_Tv",
+    "Title": "Public Tv",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/public-tv.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.yupptv.com/channels/public-tv/live",
+        "Provider": "yupptv",
+        "Provider_Logo": "https://images.justwatch.com/icon/123324312/s332"
+      }
+    ]
+  },
+  "TV5_Kannada": {
+    "Id": "TV5_Kannada",
+    "Title": "TV5 Kannada",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tv5-news-kannada.jpg",
+    "Watch": [
+      {
+        "Link": "https://www.yupptv.com/channels/tv5-kannada/live",
+        "Provider": "yupptv",
+        "Provider_Logo": "https://images.justwatch.com/icon/123324312/s332"
+      }
+    ]
+  },
+  "Namma_Kudla_News": {
+    "Id": "Namma_Kudla_News",
+    "Title": "Namma Kudla News",
+    "Language": "kn",
+    "Genres": ["News"],
+    "Poster": "https://i0.wp.com/nammakudlanews.com/wp-content/uploads/2020/01/Namma-kudla-Logo.jpg",
+    "Watch": [
+      {
+        "Link": "https://nammakudlanews.com/namma-kudla-live-24x7-tv/",
+        "Provider": "yupptv",
+        "Provider_Logo": "https://images.justwatch.com/icon/123324312/s332"
+      }
+    ]
+  }
+}

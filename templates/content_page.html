@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% load static %} {% block data %}{% endblock %}
+{%block script %}
+<script>
+  let drag_count={{drag_count}}
+  let ID='{{ID}}'
+  let imdb_src="{% static 'resources/imdb.png' %}"
+  let cover_alt="{% static 'resources/back_cover_alt.jpg' %}"
+</script>
+<script src="{% static 'js/content_page.js' %}"></script>
+{% endblock script %}

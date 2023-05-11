@@ -1,0 +1,715 @@
+{
+    "1178240": {
+        "Id": 1178240,
+        "Title": "Pathaan",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "U/A 13+",
+        "Release_Year": 2023,
+        "Rating": 6.2,
+        "Runtime": "2h 26m",
+        "Genres": [
+            "Action & Adventure",
+            "Crime",
+            "Drama",
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0639961c-07ad-4292-ac75-544aa069b89d",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/301975985/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301877765/s1920",
+        "Owerview": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes."
+    },
+    "1137671": {
+        "Id": 1137671,
+        "Title": "Everything Everywhere All at Once",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "A",
+        "Release_Year": 2022,
+        "Rating": 7.9,
+        "Runtime": "2h 20m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Fantasy",
+            "Science-Fiction"
+        ],
+        "Watch": [
+            {
+                "Link": "https://www.sonyliv.com/movies/everything-everywhere-all-at-once-1000213025",
+                "Provider": "sonyliv",
+                "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/265720270/s592",
+        "Cover": "https://images.justwatch.com//backdrop/296400829/s1920",
+        "Owerview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes."
+    },
+    "153649": {
+        "Id": 153649,
+        "Title": "John Wick",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "M/16",
+        "Release_Year": 2014,
+        "Rating": 7.4,
+        "Runtime": "1h 41m",
+        "Genres": [
+            "Action & Adventure",
+            "Crime",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/8697367/s592",
+        "Cover": "https://images.justwatch.com//backdrop/175581057/s1920",
+        "Owerview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him."
+    },
+    "1025438": {
+        "Id": 1025438,
+        "Title": "Bhediya",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 7.3,
+        "Runtime": "2h 36m",
+        "Genres": [
+            "Comedy",
+            "Fantasy",
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/301752151/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301523379/s1920",
+        "Owerview": "Set in the forests of Arunachal, Bhediya is a story of Bhaskar, a man who gets bitten by a wolf, and begins to transform into the creature. As Bhaskar and his buddies try to find answers, a bunch of twists, turns, and laughs ensue."
+    },
+    "1190847": {
+        "Id": 1190847,
+        "Title": "Varisu",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "U",
+        "Release_Year": 2023,
+        "Rating": 6.1,
+        "Runtime": "2h 50m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8fc958b-0919-4652-ac88-36b557ec921e",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/286728411/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301982375/s1920",
+        "Owerview": "Vijay, The prodigal son of business tycoon Rajendran agrees to take over the reins of the business, much to the chagrin of his brothers. But can Vijay prove himself to be a worthy varisu and also reunite his now-broken family?"
+    },
+    "1241748": {
+        "Id": 1241748,
+        "Title": "The Whale",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "A",
+        "Release_Year": 2022,
+        "Rating": 7.8,
+        "Runtime": "1h 57m",
+        "Genres": [
+            "Drama"
+        ],
+        "Watch": [
+            {
+                "Link": "https://www.sonyliv.com/movies/the-whale-1000213707",
+                "Provider": "sonyliv",
+                "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/303738722/s592",
+        "Cover": "https://images.justwatch.com//backdrop/296408239/s1920",
+        "Owerview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption."
+    },
+    "435124": {
+        "Id": 435124,
+        "Title": "Black Adam",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 6.3,
+        "Runtime": "2h 5m",
+        "Genres": [
+            "Action & Adventure",
+            "Fantasy",
+            "Science-Fiction"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a7724bb-c4e5-44d6-8dde-17abce9681c1",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/300639404/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301075916/s1920",
+        "Owerview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods\u2014and imprisoned just as quickly\u2014Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
+    },
+    "1229160": {
+        "Id": 1229160,
+        "Title": "Waltair Veerayya",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2023,
+        "Rating": 6.4,
+        "Runtime": "2h 40m",
+        "Genres": [
+            "Action & Adventure",
+            "Drama"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81551307",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/303917829/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302347396/s1920",
+        "Owerview": "A notorious smuggler Waltair Veerayya is hired by a CI Seethapathi, reaches Malaysia with the ostensible mission of kidnapping a drug mafia leader named Solomon, who escaped India after wreaking havoc on the RAW agents and local policemen. Veerayya manages to pummel Solomon, who is fiercely protected by his ruthless gang-lord brother Kaala. Tables are turned, when Veerayya reveals that he shares a turbulent past with Kaala & an ACP Vikram Sagar who is hell-bent on ending his smuggling activities."
+    },
+    "1904": {
+        "Id": 1904,
+        "Title": "Avatar: The Way of Water",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 7.8,
+        "Runtime": "1h 30m",
+        "Genres": [
+            "Action & Adventure",
+            "Fantasy",
+            "Mystery & Thriller",
+            "Science-Fiction"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/301592778/s592",
+        "Cover": "https://images.justwatch.com//backdrop/303915345/s1920",
+        "Owerview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+    },
+    "1221988": {
+        "Id": 1221988,
+        "Title": "Fall",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "12",
+        "Release_Year": 2022,
+        "Rating": 6.4,
+        "Runtime": "1h 47m",
+        "Genres": [
+            "Drama",
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b230d8-1343-46df-9bde-178a9a75cc48",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/284148754/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302863269/s1920",
+        "Owerview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter\u2019s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights"
+    },
+    "1258772": {
+        "Id": 1258772,
+        "Title": "Vaathi",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2023,
+        "Rating": 7.5,
+        "Runtime": "2h 17m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81683129",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/304448205/s592",
+        "Cover": "https://images.justwatch.com//backdrop/300734734/s1920",
+        "Owerview": "An assistant maths teacher takes up a tedious task of transforming underprivileged students despite the politics around education in the 90s."
+    },
+    "1003756": {
+        "Id": 1003756,
+        "Title": "Vikram Vedha",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 7.1,
+        "Runtime": "2h 40m",
+        "Genres": [
+            "Action & Adventure",
+            "Crime",
+            "Drama",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/300809403/s592",
+        "Cover": "https://images.justwatch.com//backdrop/300872169/s1920",
+        "Owerview": "A tough police officer sets out to track down and kill an equally tough gangsters."
+    },
+    "1298826": {
+        "Id": 1298826,
+        "Title": "Iratta",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2023,
+        "Rating": 7.7,
+        "Runtime": "1h 50m",
+        "Genres": [
+            "Drama",
+            "Kids & Family",
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81676929",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/302468441/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304051954/s1920",
+        "Owerview": "After a cop is found dead, a policeman's investigation sparks a chilling search for the truth connected to his estranged twin and their fraught past."
+    },
+    "322433": {
+        "Id": 322433,
+        "Title": "John Wick: Chapter 3 - Parabellum",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "A",
+        "Release_Year": 2019,
+        "Rating": 7.4,
+        "Runtime": "2h 11m",
+        "Genres": [
+            "Action & Adventure",
+            "Crime",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/139884666/s592",
+        "Cover": "https://images.justwatch.com//backdrop/130829817/s1920",
+        "Owerview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin\u2019s guild, the High Table, John Wick is excommunicado, but the world\u2019s most ruthless hit men and women await his every turn."
+    },
+    "513279": {
+        "Id": 513279,
+        "Title": "777 Charlie",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 8.8,
+        "Runtime": "2h 46m",
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Watch": [
+            {
+                "Link": "https://www.voot.com/movie/777-charlie/1345451",
+                "Provider": "voot",
+                "Provider_Logo": "https://images.justwatch.com/icon/4233119/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/281711603/s592",
+        "Cover": "https://images.justwatch.com//backdrop/279111882/s1920",
+        "Owerview": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma\u2019s character enters his life and gives him a new perspective towards it."
+    },
+    "366071": {
+        "Id": 366071,
+        "Title": "Brahm\u0101stra Part One: Shiva",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 5.5,
+        "Runtime": "2h 48m",
+        "Genres": [
+            "Action & Adventure",
+            "Fantasy",
+            "Science-Fiction"
+        ],
+        "Watch": [
+            {
+                "Link": "https://www.hotstar.com/in/1260110227",
+                "Provider": "hotstar",
+                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/301476523/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302007474/s1920",
+        "Owerview": "The story of Shiva \u2013 a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahm\u0101stra... and a great power within him that he doesn\u2019t understand just yet - the power of Fire."
+    },
+    "1268311": {
+        "Id": 1268311,
+        "Title": "Veera Simha Reddy",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2023,
+        "Rating": 5.1,
+        "Runtime": "2h 43m",
+        "Genres": [
+            "Action & Adventure",
+            "Drama"
+        ],
+        "Watch": [
+            {
+                "Link": "https://www.hotstar.com/in/1260131089",
+                "Provider": "hotstar",
+                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/302445325/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301255992/s1920",
+        "Owerview": "Jai Simha Reddy, a businessman in Turkey and doting son of Meenakshi falls in love with Eesha. On the verge of his marriage, Jai comes to know the secret about his father Veera Simha Reddy who comes to Turkey to settle the marriage, which is when Jai meets his father for the first time. Things take a drastic turn around when Veera's  past follows him to Turkey."
+    },
+    "1068411": {
+        "Id": 1068411,
+        "Title": "Operation Fortune: Ruse de Guerre",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "A",
+        "Release_Year": 2023,
+        "Rating": 6.4,
+        "Runtime": "1h 54m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/304057319/s592",
+        "Cover": "https://images.justwatch.com//backdrop/257233912/s1920",
+        "Owerview": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order."
+    },
+    "463762": {
+        "Id": 463762,
+        "Title": "RRR",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 7.9,
+        "Runtime": "3h 2m",
+        "Genres": [
+            "Action & Adventure",
+            "Drama"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81476453",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            },
+            {
+                "Link": "https://www.hotstar.com/in/1260108124",
+                "Provider": "hotstar",
+                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+            },
+            {
+                "Link": "https://www.zee5.com/movies/details/watch-rrr-tamil-full-hd-movie-online-on-zee5/0-0-1z5148987",
+                "Provider": "zee5",
+                "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/274898432/s592",
+        "Cover": "https://images.justwatch.com//backdrop/243667591/s1920",
+        "Owerview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s."
+    },
+    "1305935": {
+        "Id": 1305935,
+        "Title": "Dada",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "U",
+        "Release_Year": 2023,
+        "Rating": 8.2,
+        "Runtime": "2h 15m",
+        "Genres": [
+            "Drama",
+            "Kids & Family",
+            "Romance"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c904497c-d105-4ba5-8c25-eeed2a0bb1d7",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/302612504/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302954612/s1920",
+        "Owerview": "Manikandan and Sindhu, final year college students, become parents accidentally. Situations separate them, forcing Manikandan to raise his child, Adhithya, as a single parent. What follows is a beautiful tale of a father and son and their journey against all odds."
+    },
+    "465131": {
+        "Id": 465131,
+        "Title": "Black Panther: Wakanda Forever",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "M",
+        "Release_Year": 2022,
+        "Rating": 6.7,
+        "Runtime": "2h 38m",
+        "Genres": [
+            "Action & Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery & Thriller",
+            "Science-Fiction"
+        ],
+        "Watch": [
+            {
+                "Link": "https://www.hotstar.com/in/1260118821",
+                "Provider": "hotstar",
+                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/300992079/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301009653/s1920",
+        "Owerview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda."
+    },
+    "233164": {
+        "Id": 233164,
+        "Title": "John Wick: Chapter 2",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "A",
+        "Release_Year": 2017,
+        "Rating": 7.4,
+        "Runtime": "1h 58m",
+        "Genres": [
+            "Action & Adventure",
+            "Crime",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/188066692/s592",
+        "Cover": "https://images.justwatch.com//backdrop/10722359/s1920",
+        "Owerview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers."
+    },
+    "1204029": {
+        "Id": 1204029,
+        "Title": "Nanpakal Nerathu Mayakkam",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "U",
+        "Release_Year": 2023,
+        "Rating": 8.8,
+        "Runtime": "1h 47m",
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81676305",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/304017118/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302214352/s1920",
+        "Owerview": "A group of Malayali travellers were returning to Kerala by bus after their visit to Velankanni. They all doze off in a lazy nap after lunch. Like a traveler who forgot his destination, James stops the bus in a village in Tamil Nadu. He starts to speak in Tamil like a native of the place, Sundaram, and behaves like him, confusing all who came with him and the villagers alike. He walks amidst faith, delusion, dream and trance, followed by others."
+    },
+    "939539": {
+        "Id": 939539,
+        "Title": "M3GAN",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2023,
+        "Rating": 6.4,
+        "Runtime": "1h 42m",
+        "Genres": [
+            "Comedy",
+            "Horror",
+            "Mystery & Thriller",
+            "Science-Fiction"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/302253576/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302346687/s1920",
+        "Owerview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results."
+    },
+    "1229784": {
+        "Id": 1229784,
+        "Title": "Ela Veezha Poonchira",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 7.3,
+        "Runtime": "1h 44m",
+        "Genres": [
+            "Crime",
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.036d61e2-9127-4cd4-808a-1222d95b3cd7",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/287407625/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301728597/s1920",
+        "Owerview": "Sudhi and Madhu are police officers at a small wireless police station on the hilltop. Amidst the heavy monsoon, they receive word that a woman`s body parts have been scattered all over Elaveezhapoonchira. Will they solve the mystery?"
+    },
+    "1217674": {
+        "Id": 1217674,
+        "Title": "Sita Ramam",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "U",
+        "Release_Year": 2022,
+        "Rating": 8.6,
+        "Runtime": "2h 38m",
+        "Genres": [
+            "Action & Adventure",
+            "Drama",
+            "Romance"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0f68d95c-fc37-4a3a-b08a-f567c022a2d8",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            },
+            {
+                "Link": "https://www.hotstar.com/in/1260123526",
+                "Provider": "hotstar",
+                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/300704972/s592",
+        "Cover": "https://images.justwatch.com//backdrop/296744088/s1920",
+        "Owerview": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter."
+    },
+    "1261499": {
+        "Id": 1261499,
+        "Title": "Drishyam 2",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 8.2,
+        "Runtime": "2h 22m",
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a67b1bd-15a9-414c-97e9-8ccb8380eff4",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/302274607/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302032241/s1920",
+        "Owerview": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?"
+    },
+    "1306729": {
+        "Id": 1306729,
+        "Title": "Vasantha Mullai",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2023,
+        "Rating": 7.6,
+        "Runtime": "1h 48m",
+        "Genres": [
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e43f4a0-56ae-4b9b-9d4c-9624c44e018d",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/242343850/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304049845/s1920",
+        "Owerview": "Rudhra, who works tirelessly for a successful career and money, and suffering from blackout disorders, goes on a romantic journey to a hill station with his girlfriend Nita, trying to spend some quality time . On the way, he stays at the Vasantha Mullai Motel. The events that unfold in a single night drive Rudhra insane and take him on a roller coaster ride."
+    },
+    "1897": {
+        "Id": 1897,
+        "Title": "Shazam!",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2019,
+        "Rating": 7,
+        "Runtime": "2h 12m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/50799185/s592",
+        "Cover": "https://images.justwatch.com//backdrop/75935759/s1920",
+        "Owerview": "A boy is given the ability to become an adult superhero in times of need with a single magic word."
+    },
+    "57755": {
+        "Id": 57755,
+        "Title": "All Quiet on the Western Front",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "A",
+        "Release_Year": 2022,
+        "Rating": 7.8,
+        "Runtime": "2h 28m",
+        "Genres": [
+            "Action & Adventure",
+            "Drama",
+            "History",
+            "War & Military"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81260280",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/301383625/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301374395/s1920",
+        "Owerview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I."
+    }
+}

@@ -1,0 +1,128 @@
+.container.sticky {
+  height: 25px;
+  /* position: relative; */
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  z-index: 999;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  transition: background-color 0.3s ease-in-out;
+
+  /* background: red; */
+}
+
+.container.scrolled {
+  background-color: black;
+}
+
+.nav ul li {
+  /* position: relative; */
+  /* align-items: center; */
+  list-style: none;
+  /* display: flex; */
+  margin-left: 30px;
+  font-size: 11px;
+  color: white;
+  word-spacing: 1px;
+  letter-spacing: 0.6px;
+  width: 400vw;
+  /* font-style: segoe_ui; */
+  z-index: 1;
+  display: inline;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav {
+  width: 100%;
+  margin-left: 128px;
+  display: inline-block;
+  flex-wrap: wrap;
+  text-align: right;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.input[type="text"] {
+  width: 60px;
+  height: 17px;
+  margin-right: 94px;
+  top: -19px;
+  border-radius: 0px 50px 50px 0px;
+  font-size: 10px;
+  background: rgba(128, 128, 128, 0.576);
+  color: white;
+  border: none;
+  position: relative;
+  text-align: center;
+  /* -webkit-transition: width 0.4s ease-in-out; */
+  transition: width 0.4s ease-in-out;
+}
+
+.input[type="text"]:focus {
+  outline: none;
+  background: none;
+  border-radius: 0 0 0 0;
+  border-bottom: 1px solid white;
+  width: 12%;
+}
+
+*/ nav a:hover {
+  background-color: rgba(0, 0, 0, 0.121);
+}
+
+ul {
+  position: relative;
+  padding-right: 290px;
+  padding-top: 5px;
+}
+
+.a {
+  /* position: relative; */
+
+  position: fixed;
+}
+
+li {
+  margin-right: 20px;
+}
+
+.logo {
+  width: 22%;
+  height: 169px;
+  position: absolute;
+  margin-top: -61px;
+  margin-left: -87px;
+}
+
+.live_logo {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin-top: -24px;
+  margin-left: -64px;
+}
+
+.nav .search {
+  position: fixed;
+  /* margin-right: -5rem; */
+  background-color: rgba(255, 255, 255, 0.701);
+  width: 56px;
+  height: 19px;
+  margin-top: -18px;
+  margin-left: -55px;
+  border-color: transparent;
+  border-radius: 50px 0px 0px 50px;
+  font-size: 10px;
+}
+
+.nav .search:hover {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.83);
+}

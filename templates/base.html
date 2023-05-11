@@ -1,0 +1,78 @@
+{% load static %}{% csrf_token %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OTT Plus</title>
+
+    <link rel="stylesheet" href="{% static 'styles/scrollbar.css' %} " />
+    <link rel="stylesheet" href="{% static 'styles/style.css' %} " />
+    <link rel="stylesheet" href="{% static 'styles/nav.css' %}" />
+    <link rel="stylesheet" href="{% static 'styles/tiles.css' %}" />
+    <link rel="stylesheet" href="{% static 'styles/content_page.css' %}" />
+    <link rel="stylesheet" href="{% static 'styles/back_cover.css' %}" />
+    <link rel="stylesheet" href="{% static 'styles/live_page.css' %}" />
+    <link rel="stylesheet" href="{% static 'styles/genres_page.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <div class="main">
+      <!--********************************* container ************************ -->
+
+      <div class="container sticky" id="home">
+        <span>
+          <a href="home#top" name="top">
+            <img src="{% static 'resources/logo.png' %}" alt="" class="logo" />
+          </a>
+        </span>
+        <nav class="nav">
+          <ul class="hr1">
+            <li><a href="home#top" class="home-link">HOME</a></li>
+            <li><a href="home#movies">MOVIES</a></li>
+            <li><a href="home#shows">SHOWS</a></li>
+            <li><a href="god_mode.html">GOD MODE</a></li>
+          </ul>
+
+          <button class="search" id="search">Search</button>
+          <input
+            type="text"
+            placeholder="Enter..."
+            id="input"
+            class="input"
+            spellcheck="false"
+            onclick="search_click()"
+          />
+          <span>
+            <img
+              src="{% static 'resources/live.png' %}"
+              alt=""
+              class="live_logo"
+              id="live_logo"
+            />
+          </span>
+        </nav>
+      </div>
+
+      <div id="Data">{% block data %}{% endblock data %}</div>
+    </div>
+    <script>
+      const navbar = document.querySelector(".container");
+
+      window.addEventListener("scroll", () => {
+        if (window.scrollY > 0) {
+          navbar.classList.add("scrolled");
+        } else {
+          navbar.classList.remove("scrolled");
+        }
+      });
+    </script>
+    {% block script %}{% endblock script %}
+  </body>
+</html>

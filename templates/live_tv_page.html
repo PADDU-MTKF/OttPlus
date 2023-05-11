@@ -1,0 +1,9 @@
+{% extends 'base.html' %}{% load static %} {% block data %}{% endblock %}
+{%block script %}
+<script>
+  let livetv_banner = "{% static 'resources/livetv_banner.png' %}";
+  let post_alt = "{% static 'resources/poster_alt.png' %}";
+</script>
+<script type="module" src="{% static 'js/modules.js'%}"></script>
+<script src="{% static 'js/live_tv_page.js' %}"></script>
+{% endblock script %}
