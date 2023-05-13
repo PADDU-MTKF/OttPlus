@@ -1,6 +1,6 @@
 // ********************** constents ***********************
 
-const base_api = "https://find-all-at.ott-plus.repl.co/";
+const base_api = "api/";
 let home_top = [];
 // ********************** functions ***********************
 

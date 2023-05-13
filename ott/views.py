@@ -28,6 +28,23 @@ def gen_search(request):
     return render(request, 'gen_search_page.html', data)
 
 
+def ser_data(request):
+    what = request.GET.get('what')
+    data = mymodule.Search(what)
+    return JsonResponse(data)
+
+
+def gen_data(request):
+    what = request.GET.get('what')
+    data = mymodule.genre(what)
+    return JsonResponse(data)
+
+
+def get_genres_info(request):
+    data = mymodule.genres()
+    return JsonResponse(data)
+
+
 def popular_movies(request):
     data = mymodule.movie()
     return JsonResponse(data)

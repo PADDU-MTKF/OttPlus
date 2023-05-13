@@ -1,29 +1,4 @@
 {
-    "306198": {
-        "Id": 306198,
-        "Title": "Farzi",
-        "Content_Type": "show",
-        "Total_Seasons": 1,
-        "Certification": "MA15+",
-        "Release_Year": 2023,
-        "Rating": 8.4,
-        "Runtime": null,
-        "Genres": [
-            "Crime",
-            "Drama",
-            "Mystery & Thriller"
-        ],
-        "Watch": [
-            {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c3830650-ca6d-4c49-9861-571fc29f3c15",
-                "Provider": "amazonprimevideo",
-                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/303328524/s592",
-        "Cover": "https://images.justwatch.com//backdrop/302908004/s1920",
-        "Owerview": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!"
-    },
     "8364": {
         "Id": 8364,
         "Title": "Bigg Boss",
@@ -49,88 +24,193 @@
             }
         ],
         "Poster": "https://images.justwatch.com/poster/69104514/s592",
-        "Cover": "https://images.justwatch.com//backdrop/69055422/s1920",
+        "Cover": "https://images.justwatch.com//backdrop/242098425/s1920",
         "Owerview": "The Indian version of the reality show where a number of contestants (known as \"housemates\") live in a purpose-built house and are isolated from the rest of the world. Each week, housemates nominate two of their fellow housemates for eviction, and the housemates who receive the most nominations faces a public vote out."
     },
-    "226904": {
-        "Id": 226904,
-        "Title": "The Last of Us",
+    "288230": {
+        "Id": 288230,
+        "Title": "Love & Death",
         "Content_Type": "show",
         "Total_Seasons": 1,
-        "Certification": "A",
+        "Certification": null,
         "Release_Year": 2023,
+        "Rating": 8.6,
+        "Runtime": null,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.11998ef7-cd49-49ed-a532-1d254ee22fbd",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/304441139/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304441144/s1920",
+        "Owerview": "The true story of Candy and Pat Montgomery and Betty and Allan Gore \u2013 two churchgoing couples enjoying their small town Texas life\u2026 until an extramarital affair leads somebody to pick up an axe."
+    },
+    "2": {
+        "Id": 2,
+        "Title": "Game of Thrones",
+        "Content_Type": "show",
+        "Total_Seasons": 8,
+        "Certification": "A",
+        "Release_Year": 2011,
         "Rating": 9.2,
         "Runtime": null,
         "Genres": [
             "Action & Adventure",
             "Drama",
+            "Fantasy",
+            "Romance",
+            "Science-Fiction"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/123219548/s592",
+        "Cover": "https://images.justwatch.com//backdrop/10043150/s1920",
+        "Owerview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
+    },
+    "87466": {
+        "Id": 87466,
+        "Title": "Demon Slayer: Kimetsu no Yaiba",
+        "Content_Type": "show",
+        "Total_Seasons": 4,
+        "Certification": "MA15+",
+        "Release_Year": 2019,
+        "Rating": 8.7,
+        "Runtime": null,
+        "Genres": [
+            "Action & Adventure",
+            "Animation",
+            "Fantasy",
             "Horror",
             "Mystery & Thriller",
             "Science-Fiction"
         ],
         "Watch": [
             {
-                "Link": "https://www.hotstar.com/in/1260128728",
-                "Provider": "hotstar",
-                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+                "Link": "http://www.netflix.com/title/81091393",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
             }
         ],
-        "Poster": "https://images.justwatch.com/poster/301981224/s592",
-        "Cover": "https://images.justwatch.com//backdrop/301800507/s1920",
-        "Owerview": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope."
+        "Poster": "https://images.justwatch.com/poster/123946389/s592",
+        "Cover": "https://images.justwatch.com//backdrop/123738550/s1920",
+        "Owerview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a \u201cdemon slayer\u201d so that he can turn his sister back into a human, and kill the demon that massacred his family."
     },
-    "1178240": {
-        "Id": 1178240,
-        "Title": "Pathaan",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "U/A 13+",
+    "306198": {
+        "Id": 306198,
+        "Title": "Farzi",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": "MA15+",
         "Release_Year": 2023,
-        "Rating": 6.2,
-        "Runtime": "2h 26m",
+        "Rating": 8.4,
+        "Runtime": null,
         "Genres": [
-            "Action & Adventure",
             "Crime",
             "Drama",
-            "Horror",
             "Mystery & Thriller"
         ],
         "Watch": [
             {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0639961c-07ad-4292-ac75-544aa069b89d",
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c3830650-ca6d-4c49-9861-571fc29f3c15",
                 "Provider": "amazonprimevideo",
                 "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
             }
         ],
-        "Poster": "https://images.justwatch.com/poster/301975985/s592",
-        "Cover": "https://images.justwatch.com//backdrop/301877765/s1920",
-        "Owerview": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes."
+        "Poster": "https://images.justwatch.com/poster/303328524/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302908004/s1920",
+        "Owerview": "Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!"
     },
-    "1137671": {
-        "Id": 1137671,
-        "Title": "Everything Everywhere All at Once",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "A",
-        "Release_Year": 2022,
-        "Rating": 7.9,
-        "Runtime": "2h 20m",
+    "91583": {
+        "Id": 91583,
+        "Title": "Citadel",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": null,
+        "Release_Year": 2023,
+        "Rating": null,
+        "Runtime": null,
         "Genres": [
             "Action & Adventure",
-            "Comedy",
-            "Fantasy",
-            "Science-Fiction"
+            "Drama"
         ],
         "Watch": [
             {
-                "Link": "https://www.sonyliv.com/movies/everything-everywhere-all-at-once-1000213025",
-                "Provider": "sonyliv",
-                "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5aca0b0e-f88a-483f-894e-4091e6f74740",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
             }
         ],
-        "Poster": "https://images.justwatch.com/poster/265720270/s592",
-        "Cover": "https://images.justwatch.com//backdrop/296400829/s1920",
-        "Owerview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes."
+        "Poster": "https://images.justwatch.com/poster/304447366/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304447371/s1920",
+        "Owerview": "Eight years ago, Citadel, an independent global spy agency, was destroyed by a new syndicate, Manticore. With their memories wiped, elite agents Mason Kane and Nadia Sinh barely escaped with their lives. Eight years later, Mason\u2019s former colleague, Bernard Orlick, asks for his help to prevent Manticore from establishing a new world order."
+    },
+    "77979": {
+        "Id": 77979,
+        "Title": "Succession",
+        "Content_Type": "show",
+        "Total_Seasons": 4,
+        "Certification": "MA15+",
+        "Release_Year": 2018,
+        "Rating": 8.8,
+        "Runtime": null,
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/305174125/s592",
+        "Cover": "https://images.justwatch.com//backdrop/305174138/s1920",
+        "Owerview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control."
+    },
+    "817388": {
+        "Id": 817388,
+        "Title": "Tu Jhoothi Main Makkaar",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2023,
+        "Rating": 6.5,
+        "Runtime": "2h 44m",
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81382254",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/302509913/s592",
+        "Cover": "https://images.justwatch.com//backdrop/302625756/s1920",
+        "Owerview": "Madness ensues when a 'player' in the world of romantic relationships finds a girl who's a worthy opponent. A story of love where the battle is of wits."
+    },
+    "1025438": {
+        "Id": 1025438,
+        "Title": "Bhediya",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 7.3,
+        "Runtime": "2h 36m",
+        "Genres": [
+            "Comedy",
+            "Fantasy",
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/301752151/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301779945/s1920",
+        "Owerview": "Set in the forests of Arunachal, Bhediya is a story of Bhaskar, a man who gets bitten by a wolf, and begins to transform into the creature. As Bhaskar and his buddies try to find answers, a bunch of twists, turns, and laughs ensue."
     },
     "85612": {
         "Id": 85612,
@@ -158,6 +238,121 @@
         "Cover": "https://images.justwatch.com//backdrop/302477285/s1920",
         "Owerview": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city."
     },
+    "271787": {
+        "Id": 271787,
+        "Title": "The Great",
+        "Content_Type": "show",
+        "Total_Seasons": 3,
+        "Certification": "MA15+",
+        "Release_Year": 2020,
+        "Rating": 8.2,
+        "Runtime": null,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "History"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02b91a72-0ebe-2f96-04e0-a7b091a7f3ff",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/254386248/s592",
+        "Cover": "https://images.justwatch.com//backdrop/254577313/s1920",
+        "Owerview": "A genre-bending, anti-historical ride through 18th century Russia following the rise of Catherine the Nothing to Catherine the Great and her explosive relationship with husband Peter, the emperor of Russia."
+    },
+    "356311": {
+        "Id": 356311,
+        "Title": "The Diplomat",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": "A",
+        "Release_Year": 2023,
+        "Rating": 8.2,
+        "Runtime": null,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery & Thriller"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81288983",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/304992451/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304992457/s1920",
+        "Owerview": "In the midst of an international crisis, a career diplomat lands in a high-profile job she\u2019s unsuited for, with tectonic implications for her marriage and her political future."
+    },
+    "226904": {
+        "Id": 226904,
+        "Title": "The Last of Us",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": "A",
+        "Release_Year": 2023,
+        "Rating": 9.2,
+        "Runtime": null,
+        "Genres": [
+            "Action & Adventure",
+            "Drama",
+            "Horror",
+            "Mystery & Thriller",
+            "Science-Fiction"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/301981224/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301800507/s1920",
+        "Owerview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival."
+    },
+    "296145": {
+        "Id": 296145,
+        "Title": "Beef",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": "A",
+        "Release_Year": 2023,
+        "Rating": 8.4,
+        "Runtime": null,
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81447461",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/304513933/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304411191/s1920",
+        "Owerview": "Two people let a road rage incident burrow into their minds and slowly consume their every thought and action."
+    },
+    "1031694": {
+        "Id": 1031694,
+        "Title": "Ant-Man and the Wasp: Quantumania",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "U/A 13+",
+        "Release_Year": 2023,
+        "Rating": 6.3,
+        "Runtime": "2h 5m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Mystery & Thriller",
+            "Science-Fiction"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/302408188/s592",
+        "Cover": "https://images.justwatch.com//backdrop/303438481/s1920",
+        "Owerview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible."
+    },
     "85655": {
         "Id": 85655,
         "Title": "College Romance",
@@ -180,107 +375,45 @@
             }
         ],
         "Poster": "https://images.justwatch.com/poster/92967086/s592",
-        "Cover": "https://images.justwatch.com//backdrop/241784996/s1920",
+        "Cover": "https://images.justwatch.com//backdrop/153974708/s1920",
         "Owerview": "College Romance is a story of three BFF's : Karan, Trippy and Naira ; who fall in love and their ridiculous romantic stories take off."
     },
-    "289334": {
-        "Id": 289334,
-        "Title": "Sex/Life",
-        "Content_Type": "show",
-        "Total_Seasons": 2,
-        "Certification": "R18+",
-        "Release_Year": 2021,
-        "Rating": 5.5,
-        "Runtime": null,
-        "Genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
-        ],
-        "Watch": [
-            {
-                "Link": "http://www.netflix.com/title/80991848",
-                "Provider": "netflix",
-                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/245633896/s592",
-        "Cover": "https://images.justwatch.com//backdrop/246786605/s1920",
-        "Owerview": "A suburban mother of two takes a fantasy-charged trip down memory lane that sets her very married present on a collision course with her wild child past."
-    },
-    "41945": {
-        "Id": 41945,
-        "Title": "The Night Manager",
-        "Content_Type": "show",
-        "Total_Seasons": 1,
-        "Certification": "A",
-        "Release_Year": 2016,
-        "Rating": 8,
-        "Runtime": null,
-        "Genres": [
-            "Crime",
-            "Drama",
-            "Mystery & Thriller",
-            "Made in Europe"
-        ],
-        "Watch": [],
-        "Poster": "https://images.justwatch.com/poster/177807391/s592",
-        "Cover": "https://images.justwatch.com//backdrop/3784320/s1920",
-        "Owerview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal."
-    },
-    "313183": {
-        "Id": 313183,
-        "Title": "Rana Naidu",
-        "Content_Type": "show",
-        "Total_Seasons": 1,
-        "Certification": null,
-        "Release_Year": 2023,
-        "Rating": 7.4,
-        "Runtime": null,
+    "1904": {
+        "Id": 1904,
+        "Title": "Avatar: The Way of Water",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "UA",
+        "Release_Year": 2022,
+        "Rating": 7.7,
+        "Runtime": "3h 12m",
         "Genres": [
             "Action & Adventure",
-            "Crime",
-            "Drama",
-            "Mystery & Thriller"
-        ],
-        "Watch": [
-            {
-                "Link": "http://www.netflix.com/title/81313283",
-                "Provider": "netflix",
-                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/303847493/s592",
-        "Cover": "https://images.justwatch.com//backdrop/304408794/s1920",
-        "Owerview": "In the complicated world of celebrities, Rana Naidu is the go-to problem-solver. When his father is released from prison, Rana grapples with family secrets and personal conflict and realizes that the only problem he cant fix is his own."
-    },
-    "274631": {
-        "Id": 274631,
-        "Title": "Wednesday",
-        "Content_Type": "show",
-        "Total_Seasons": 2,
-        "Certification": "M",
-        "Release_Year": 2022,
-        "Rating": 8.1,
-        "Runtime": null,
-        "Genres": [
-            "Comedy",
-            "Crime",
             "Fantasy",
-            "Horror",
-            "Kids & Family",
+            "Mystery & Thriller",
             "Science-Fiction"
         ],
-        "Watch": [
-            {
-                "Link": "http://www.netflix.com/title/81231974",
-                "Provider": "netflix",
-                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
-            }
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/301592778/s592",
+        "Cover": "https://images.justwatch.com//backdrop/305192953/s1920",
+        "Owerview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+    },
+    "1331730": {
+        "Id": 1331730,
+        "Title": "The Kerala Story",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "A",
+        "Release_Year": 2023,
+        "Rating": 7.8,
+        "Runtime": "2h 18m",
+        "Genres": [
+            "Drama"
         ],
-        "Poster": "https://images.justwatch.com/poster/301078631/s592",
-        "Cover": "https://images.justwatch.com//backdrop/301994024/s1920",
-        "Owerview": "Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spree of the town citizens, and solve the supernatural mystery that affected her family 25 years ago \u2014 all while navigating her new relationships."
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/305224207/s592",
+        "Cover": "https://images.justwatch.com//backdrop/305317096/s1920",
+        "Owerview": "A converted Muslim woman Fatima narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards and turned into an ISIS terrorist and landed in Afghanistan jail."
     },
     "84392": {
         "Id": 84392,
@@ -308,172 +441,245 @@
         "Cover": "https://images.justwatch.com//backdrop/304412072/s1920",
         "Owerview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter."
     },
-    "153649": {
-        "Id": 153649,
-        "Title": "John Wick",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "M/16",
-        "Release_Year": 2014,
-        "Rating": 7.4,
-        "Runtime": "1h 41m",
-        "Genres": [
-            "Action & Adventure",
-            "Crime",
-            "Mystery & Thriller"
-        ],
-        "Watch": [],
-        "Poster": "https://images.justwatch.com/poster/8697367/s592",
-        "Cover": "https://images.justwatch.com//backdrop/175581057/s1920",
-        "Owerview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him."
-    },
-    "1025438": {
-        "Id": 1025438,
-        "Title": "Bhediya",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "UA",
-        "Release_Year": 2022,
-        "Rating": 7.3,
-        "Runtime": "2h 36m",
-        "Genres": [
-            "Comedy",
-            "Fantasy",
-            "Horror",
-            "Mystery & Thriller"
-        ],
-        "Watch": [],
-        "Poster": "https://images.justwatch.com/poster/301752151/s592",
-        "Cover": "https://images.justwatch.com//backdrop/301523379/s1920",
-        "Owerview": "Set in the forests of Arunachal, Bhediya is a story of Bhaskar, a man who gets bitten by a wolf, and begins to transform into the creature. As Bhaskar and his buddies try to find answers, a bunch of twists, turns, and laughs ensue."
-    },
-    "1190847": {
-        "Id": 1190847,
-        "Title": "Varisu",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "U",
-        "Release_Year": 2023,
-        "Rating": 6.1,
-        "Runtime": "2h 50m",
-        "Genres": [
-            "Action & Adventure",
-            "Comedy",
-            "Drama",
-            "Romance"
-        ],
-        "Watch": [
-            {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8fc958b-0919-4652-ac88-36b557ec921e",
-                "Provider": "amazonprimevideo",
-                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/286728411/s592",
-        "Cover": "https://images.justwatch.com//backdrop/301982375/s1920",
-        "Owerview": "Vijay, The prodigal son of business tycoon Rajendran agrees to take over the reins of the business, much to the chagrin of his brothers. But can Vijay prove himself to be a worthy varisu and also reunite his now-broken family?"
-    },
-    "224255": {
-        "Id": 224255,
-        "Title": "Mayor of Kingstown",
+    "224087": {
+        "Id": 224087,
+        "Title": "Ted Lasso",
         "Content_Type": "show",
-        "Total_Seasons": 2,
-        "Certification": null,
-        "Release_Year": 2021,
-        "Rating": 8.2,
-        "Runtime": null,
-        "Genres": [
-            "Crime",
-            "Drama",
-            "Mystery & Thriller"
-        ],
-        "Watch": [
-            {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fde82f-3a21-4415-a867-171c076c807c",
-                "Provider": "amazonprimevideo",
-                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/302148591/s592",
-        "Cover": "https://images.justwatch.com//backdrop/302475061/s1920",
-        "Owerview": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain."
-    },
-    "2": {
-        "Id": 2,
-        "Title": "Game of Thrones",
-        "Content_Type": "show",
-        "Total_Seasons": 8,
+        "Total_Seasons": 3,
         "Certification": "A",
-        "Release_Year": 2011,
-        "Rating": 9.2,
+        "Release_Year": 2020,
+        "Rating": 8.8,
+        "Runtime": null,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Sport"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/303616059/s592",
+        "Cover": "https://images.justwatch.com//backdrop/246950734/s1920",
+        "Owerview": "American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League football team."
+    },
+    "300649": {
+        "Id": 300649,
+        "Title": "The Night Agent",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": "MA15+",
+        "Release_Year": 2023,
+        "Rating": 7.5,
         "Runtime": null,
         "Genres": [
             "Action & Adventure",
             "Drama",
-            "Fantasy",
-            "Romance",
-            "Science-Fiction"
+            "Mystery & Thriller"
         ],
         "Watch": [
             {
-                "Link": "https://www.hotstar.com/tv/game-of-thrones/s-510/winterfell/1770005120",
-                "Provider": "hotstar",
-                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+                "Link": "http://www.netflix.com/title/81450827",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
             }
         ],
-        "Poster": "https://images.justwatch.com/poster/123219548/s592",
-        "Cover": "https://images.justwatch.com//backdrop/10043150/s1920",
-        "Owerview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
+        "Poster": "https://images.justwatch.com/poster/304465282/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304465289/s1920",
+        "Owerview": "While monitoring an emergency line, a vigilant FBI agent answers a call that plunges him into a deadly conspiracy involving a mole at the White House."
     },
-    "221362": {
-        "Id": 221362,
-        "Title": "The Family Man",
+    "57131": {
+        "Id": 57131,
+        "Title": "Young Sheldon",
         "Content_Type": "show",
-        "Total_Seasons": 2,
-        "Certification": null,
-        "Release_Year": 2019,
-        "Rating": 8.7,
+        "Total_Seasons": 6,
+        "Certification": "PG",
+        "Release_Year": 2017,
+        "Rating": 7.6,
         "Runtime": null,
         "Genres": [
-            "Action & Adventure",
-            "Comedy",
-            "Drama"
+            "Comedy"
         ],
         "Watch": [
             {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94b68680-c39e-9c51-d4f2-ec2ebff8b212",
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fcaf5daa-43e8-6255-2b40-0e39ae1a40ba",
                 "Provider": "amazonprimevideo",
                 "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
             }
         ],
-        "Poster": "https://images.justwatch.com/poster/146823074/s592",
-        "Cover": "https://images.justwatch.com//backdrop/302895294/s1920",
-        "Owerview": "The story of a middle-class man who works for a special cell of the National Investigation Agency. While he tries to protect the nation from terrorists, he also has to protect his family from the impact of his secretive, high-pressure, and low paying job."
+        "Poster": "https://images.justwatch.com/poster/300727394/s592",
+        "Cover": "https://images.justwatch.com//backdrop/305216959/s1920",
+        "Owerview": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory."
     },
-    "317861": {
-        "Id": 317861,
-        "Title": "Taj: Divided by Blood",
+    "379878": {
+        "Id": 379878,
+        "Title": "The Night Manager",
         "Content_Type": "show",
         "Total_Seasons": 1,
         "Certification": "A",
         "Release_Year": 2023,
-        "Rating": 7.2,
+        "Rating": 7.7,
         "Runtime": null,
         "Genres": [
-            "Action & Adventure",
+            "Crime",
             "Drama",
-            "History"
+            "Mystery & Thriller"
         ],
         "Watch": [
             {
-                "Link": "https://www.zee5.com/zee5originals/details/taj-divided-by-blood/0-6-4z5311140/succession/0-1-6z5311154",
-                "Provider": "zee5",
-                "Provider_Logo": "https://images.justwatch.com/icon/93795879/s332"
+                "Link": "https://www.hotstar.com/in/1260130457",
+                "Provider": "hotstar",
+                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
+            },
+            {
+                "Link": "https://www.hotstar.com/in/1260130458",
+                "Provider": "hotstar",
+                "Provider_Logo": "https://images.justwatch.com/icon/240029443/s332"
             }
         ],
-        "Poster": "https://images.justwatch.com/poster/304024403/s592",
-        "Cover": "https://images.justwatch.com//backdrop/304501326/s1920",
-        "Owerview": "Follows the dark side of the story of the Mughal empire and its emperors."
+        "Poster": "https://images.justwatch.com/poster/302516966/s592",
+        "Cover": "https://images.justwatch.com//backdrop/305161493/s1920",
+        "Owerview": "A hotel's night manager is the only weapon against a dangerous arms dealer. Will he be able to stop him?"
+    },
+    "36147": {
+        "Id": 36147,
+        "Title": "Lucifer",
+        "Content_Type": "show",
+        "Total_Seasons": 6,
+        "Certification": "MA15+",
+        "Release_Year": 2016,
+        "Rating": 8.1,
+        "Runtime": null,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Fantasy",
+            "Science-Fiction"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/80057918",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/195801218/s592",
+        "Cover": "https://images.justwatch.com//backdrop/8621909/s1920",
+        "Owerview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals.\u00a0But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape."
+    },
+    "385819": {
+        "Id": 385819,
+        "Title": "Jubilee",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": "A",
+        "Release_Year": 2023,
+        "Rating": 8.5,
+        "Runtime": null,
+        "Genres": [
+            "Drama"
+        ],
+        "Watch": [
+            {
+                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2241789-a625-4c6d-a965-181bb89c2d73",
+                "Provider": "amazonprimevideo",
+                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/304519538/s592",
+        "Cover": null,
+        "Owerview": "Thrilling yet poetic tale woven around an ensemble of characters and the gambles they're willing to take, in pursuit of their dreams, passion, ambition and love"
+    },
+    "1315480": {
+        "Id": 1315480,
+        "Title": "Ghosted",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "12",
+        "Release_Year": 2023,
+        "Rating": null,
+        "Runtime": "2h 0m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Romance"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/305192332/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304095754/s1920",
+        "Owerview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie \u2014 but then makes the shocking discovery that she\u2019s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world."
+    },
+    "846390": {
+        "Id": 846390,
+        "Title": "Shazam! Fury of the Gods",
+        "Content_Type": "movie",
+        "Total_Seasons": null,
+        "Certification": "M",
+        "Release_Year": 2023,
+        "Rating": 6.1,
+        "Runtime": "2h 10m",
+        "Genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Crime",
+            "Fantasy",
+            "Mystery & Thriller"
+        ],
+        "Watch": [],
+        "Poster": "https://images.justwatch.com/poster/304179953/s592",
+        "Cover": "https://images.justwatch.com//backdrop/305017521/s1920",
+        "Owerview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world."
+    },
+    "274631": {
+        "Id": 274631,
+        "Title": "Wednesday",
+        "Content_Type": "show",
+        "Total_Seasons": 2,
+        "Certification": "M",
+        "Release_Year": 2022,
+        "Rating": 8.1,
+        "Runtime": null,
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Fantasy",
+            "Horror",
+            "Kids & Family",
+            "Mystery & Thriller",
+            "Science-Fiction"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81231974",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/301078631/s592",
+        "Cover": "https://images.justwatch.com//backdrop/301994024/s1920",
+        "Owerview": "Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spree of the town citizens, and solve the supernatural mystery that affected her family 25 years ago \u2014 all while navigating her new relationships."
+    },
+    "351520": {
+        "Id": 351520,
+        "Title": "Obsession",
+        "Content_Type": "show",
+        "Total_Seasons": 1,
+        "Certification": "A",
+        "Release_Year": 2023,
+        "Rating": 5.1,
+        "Runtime": null,
+        "Genres": [
+            "Drama",
+            "Mystery & Thriller",
+            "Romance"
+        ],
+        "Watch": [
+            {
+                "Link": "http://www.netflix.com/title/81478642",
+                "Provider": "netflix",
+                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
+            }
+        ],
+        "Poster": "https://images.justwatch.com/poster/304802866/s592",
+        "Cover": "https://images.justwatch.com//backdrop/304641496/s1920",
+        "Owerview": "William falls in love with his soon-to-be daughter in law, Anna who's trying to keep both relationships but the truth always comes to light and someone is going to be hurt."
     },
     "20305": {
         "Id": 20305,
@@ -502,244 +708,5 @@
         "Poster": "https://images.justwatch.com/poster/138627711/s592",
         "Cover": "https://images.justwatch.com//backdrop/297155479/s1920",
         "Owerview": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!"
-    },
-    "79813": {
-        "Id": 79813,
-        "Title": "You",
-        "Content_Type": "show",
-        "Total_Seasons": 4,
-        "Certification": "A",
-        "Release_Year": 2018,
-        "Rating": 7.7,
-        "Runtime": null,
-        "Genres": [
-            "Crime",
-            "Drama",
-            "Mystery & Thriller",
-            "Romance"
-        ],
-        "Watch": [
-            {
-                "Link": "http://www.netflix.com/title/80211991",
-                "Provider": "netflix",
-                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/251531592/s592",
-        "Cover": "https://images.justwatch.com//backdrop/302938199/s1920",
-        "Owerview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by."
-    },
-    "1241748": {
-        "Id": 1241748,
-        "Title": "The Whale",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "A",
-        "Release_Year": 2022,
-        "Rating": 7.8,
-        "Runtime": "1h 57m",
-        "Genres": [
-            "Drama"
-        ],
-        "Watch": [
-            {
-                "Link": "https://www.sonyliv.com/movies/the-whale-1000213707",
-                "Provider": "sonyliv",
-                "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/303738722/s592",
-        "Cover": "https://images.justwatch.com//backdrop/296408239/s1920",
-        "Owerview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption."
-    },
-    "328390": {
-        "Id": 328390,
-        "Title": "Rocket Boys",
-        "Content_Type": "show",
-        "Total_Seasons": 2,
-        "Certification": null,
-        "Release_Year": 2022,
-        "Rating": 8.9,
-        "Runtime": null,
-        "Genres": [
-            "Comedy",
-            "Drama",
-            "History"
-        ],
-        "Watch": [
-            {
-                "Link": "https://www.sonyliv.com/shows/rocket-boys-bengali-1700000867/war-and-peace-1000159995",
-                "Provider": "sonyliv",
-                "Provider_Logo": "https://images.justwatch.com/icon/207468084/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/263267505/s592",
-        "Cover": "https://images.justwatch.com//backdrop/261483324/s1920",
-        "Owerview": "Spanning three crucial decades (1940-60s) in the history of India, the story chronicles the life of three great men responsible for launching India's space and nuclear programs respectively: Dr. Hobi J. Bhabha, the architect of India's Nuclear Programme, Dr. Vikram Sarabhai, universally acknowledged as the Father of the Indian Space Programme and Dr. A.P.J. Abdul Kalam, the pioneer of modern Indian aerospace and nuclear technology. The season traces the journey of Bhabha and Sarabhai coming to terms with the challenges facing a young, independent nation and their friendship, sacrifice and determination."
-    },
-    "11188": {
-        "Id": 11188,
-        "Title": "The Flash",
-        "Content_Type": "show",
-        "Total_Seasons": 9,
-        "Certification": "M",
-        "Release_Year": 2014,
-        "Rating": 7.5,
-        "Runtime": null,
-        "Genres": [
-            "Action & Adventure",
-            "Drama",
-            "Science-Fiction"
-        ],
-        "Watch": [
-            {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bee1ff94-baae-41c5-8e68-f3f2a135cddc",
-                "Provider": "amazonprimevideo",
-                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/242096909/s592",
-        "Cover": "https://images.justwatch.com//backdrop/303095410/s1920",
-        "Owerview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash."
-    },
-    "435124": {
-        "Id": 435124,
-        "Title": "Black Adam",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "UA",
-        "Release_Year": 2022,
-        "Rating": 6.3,
-        "Runtime": "2h 5m",
-        "Genres": [
-            "Action & Adventure",
-            "Fantasy",
-            "Science-Fiction"
-        ],
-        "Watch": [
-            {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a7724bb-c4e5-44d6-8dde-17abce9681c1",
-                "Provider": "amazonprimevideo",
-                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/300639404/s592",
-        "Cover": "https://images.justwatch.com//backdrop/301075916/s1920",
-        "Owerview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods\u2014and imprisoned just as quickly\u2014Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
-    },
-    "20682": {
-        "Id": 20682,
-        "Title": "Attack on Titan",
-        "Content_Type": "show",
-        "Total_Seasons": 4,
-        "Certification": "UA",
-        "Release_Year": 2013,
-        "Rating": 9,
-        "Runtime": null,
-        "Genres": [
-            "Action & Adventure",
-            "Animation",
-            "Drama",
-            "Fantasy",
-            "Horror",
-            "Science-Fiction"
-        ],
-        "Watch": [],
-        "Poster": "https://images.justwatch.com/poster/264279164/s592",
-        "Cover": "https://images.justwatch.com//backdrop/302212233/s1920",
-        "Owerview": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction."
-    },
-    "1229160": {
-        "Id": 1229160,
-        "Title": "Waltair Veerayya",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "UA",
-        "Release_Year": 2023,
-        "Rating": 6.4,
-        "Runtime": "2h 40m",
-        "Genres": [
-            "Action & Adventure",
-            "Drama"
-        ],
-        "Watch": [
-            {
-                "Link": "http://www.netflix.com/title/81551307",
-                "Provider": "netflix",
-                "Provider_Logo": "https://images.justwatch.com/icon/207360008/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/303917829/s592",
-        "Cover": "https://images.justwatch.com//backdrop/302347396/s1920",
-        "Owerview": "A notorious smuggler Waltair Veerayya is hired by a CI Seethapathi, reaches Malaysia with the ostensible mission of kidnapping a drug mafia leader named Solomon, who escaped India after wreaking havoc on the RAW agents and local policemen. Veerayya manages to pummel Solomon, who is fiercely protected by his ruthless gang-lord brother Kaala. Tables are turned, when Veerayya reveals that he shares a turbulent past with Kaala & an ACP Vikram Sagar who is hell-bent on ending his smuggling activities."
-    },
-    "1904": {
-        "Id": 1904,
-        "Title": "Avatar: The Way of Water",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "UA",
-        "Release_Year": 2022,
-        "Rating": 7.8,
-        "Runtime": "1h 30m",
-        "Genres": [
-            "Action & Adventure",
-            "Fantasy",
-            "Mystery & Thriller",
-            "Science-Fiction"
-        ],
-        "Watch": [],
-        "Poster": "https://images.justwatch.com/poster/301592778/s592",
-        "Cover": "https://images.justwatch.com//backdrop/303915345/s1920",
-        "Owerview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
-    },
-    "1221988": {
-        "Id": 1221988,
-        "Title": "Fall",
-        "Content_Type": "movie",
-        "Total_Seasons": null,
-        "Certification": "12",
-        "Release_Year": 2022,
-        "Rating": 6.4,
-        "Runtime": "1h 47m",
-        "Genres": [
-            "Drama",
-            "Mystery & Thriller"
-        ],
-        "Watch": [
-            {
-                "Link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b230d8-1343-46df-9bde-178a9a75cc48",
-                "Provider": "amazonprimevideo",
-                "Provider_Logo": "https://images.justwatch.com/icon/52449861/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/284148754/s592",
-        "Cover": "https://images.justwatch.com//backdrop/302863269/s1920",
-        "Owerview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter\u2019s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights"
-    },
-    "80879": {
-        "Id": 80879,
-        "Title": "Gandii Baat",
-        "Content_Type": "show",
-        "Total_Seasons": 6,
-        "Certification": "A",
-        "Release_Year": 2018,
-        "Rating": 3.4,
-        "Runtime": null,
-        "Genres": [
-            "Crime",
-            "Drama",
-            "Mystery & Thriller"
-        ],
-        "Watch": [
-            {
-                "Link": "https://www.altbalaji.com//media/videos/3169",
-                "Provider": "altbalaji",
-                "Provider_Logo": "https://images.justwatch.com/icon/141488812/s332"
-            }
-        ],
-        "Poster": "https://images.justwatch.com/poster/241298731/s592",
-        "Cover": "https://images.justwatch.com//backdrop/192715837/s1920",
-        "Owerview": "Unraveling complexed relationships, closet issues, shocking truths, bizarre myths and unexplored space of men and women through a series of thrilling and exciting stories from the rural part of India. Each story is distinct from other but weaved with the thread of eccentricities which will leave you with unexpected twists and turns."
     }
 }

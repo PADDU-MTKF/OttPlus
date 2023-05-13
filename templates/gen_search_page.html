@@ -1,12 +1,12 @@
 {% extends 'base.html' %}{% load static %} {% block data %}{% endblock %}
 {%block script %}
 <script>
-  let what='{{what}}'
-  let which='{{which}}'
-  let loading_gif="{% static 'resources/loading.gif' %}"
-  let poster_alt_src="{% static 'resources/poster_alt.png' %}"
-  let page_not_found_loc="{% static 'resources/page_not_found.png' %}"
-  let gen_ban_base="{% static 'resources/gen_cover/' %}"
+  let what = "{{what}}";
+  let which = "{{which}}";
+  let loading_gif = "{% static 'resources/loading.gif' %}";
+  let poster_alt_src = "{% static 'resources/poster_alt.png' %}";
+  let page_not_found_loc = "{% static 'resources/page_not_found.png' %}";
+  let gen_ban_base = "{% static 'resources/gen_cover/' %}";
 </script>
 <script src="{% static 'js/gen_search_page.js' %}"></script>
 {% endblock script %}

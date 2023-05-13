@@ -26,9 +26,12 @@ urlpatterns = [
     path('genres', views.gen_search, name="genres"),
     path('search', views.gen_search, name="search"),
 
+    path('api/gen_data', views.gen_data, name="gen_data"),
+    path('api/ser_data', views.ser_data, name="ser_data"),
     path('api/popular_movies', views.popular_movies, name="popular_movies"),
     path('api/popular_show', views.popular_show, name="popular_show"),
     path('api/popular_mix', views.popular_mix, name="popular_mix"),
     path('api/popular_livetv', views.popular_livetv, name="popular_livetv"),
     path('api/get_livetv', views.get_livetv, name="get_livetv"),
+    path('api/get_genres_info', views.get_genres_info, name="get_genres_info"),
 ]

@@ -1,4 +1,4 @@
-const base_api = "https://find-all-at.ott-plus.repl.co/";
+const base_api = "api/";
 
 function go_to_content(e) {
   if (e.srcElement.id != "poster_home_inv") {
@@ -35,9 +35,9 @@ function go_to_content(e) {
 async function fetch_gen_search(what, which) {
   let movi;
   if (which == "gen") {
-    movi = base_api + "genres/" + what;
+    movi = base_api + "gen_data" + "?what=" + what;
   } else {
-    movi = base_api + "search/" + what;
+    movi = base_api + "ser_data" + "?what=" + what;
   }
   let oldElement = document.getElementById("Data");
   let oldContent = oldElement.innerHTML;
@@ -222,7 +222,5 @@ function shuffleArray(array) {
   }
   return array;
 }
-
-
 
 fetch_gen_search(what, which);

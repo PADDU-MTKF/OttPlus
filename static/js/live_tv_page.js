@@ -1,4 +1,4 @@
-const base_api = "https://find-all-at.ott-plus.repl.co/";
+const base_api = "api/";
 
 function live_click(e) {
   let temp = e.srcElement.id.split("__");
