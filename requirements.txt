@@ -1,6 +1,8 @@
+db-sqlite3
 Django==4.0.5
 JustWatch==0.5.1
 pytz==2021.3
 python-dotenv==0.21.0
 sqlparse==0.4.2
 asgiref==3.5.2
+
