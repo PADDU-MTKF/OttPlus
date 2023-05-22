@@ -314,7 +314,7 @@ def update_popular():
         time.sleep(0.02)
         now_hr = datetime.now(TZ).strftime('%H')
         print('checking...')
-        if now_hr == '00':
+        if now_hr != '00':
             print('Updating....')
 
             t1 = threading.Thread(target=lambda: get_details(
